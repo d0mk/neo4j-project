@@ -1,0 +1,5115 @@
+{
+  "0111161": {
+    "original title": "Skazani na Shawshank",
+    "cast": [
+      { "name": "Tim Robbins" },
+      { "name": "Morgan Freeman" },
+      { "name": "Bob Gunton" },
+      { "name": "William Sadler" },
+      { "name": "Clancy Brown" }
+    ],
+    "genres": ["Drama"],
+    "runtimes": 142,
+    "rating": 9.3,
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "director": [{ "name": "Frank Darabont" }],
+    "production companies": [{ "name": "Castle Rock Entertainment" }]
+  },
+  "0068646": {
+    "original title": "Ojciec chrzestny",
+    "cast": [
+      { "name": "Marlon Brando" },
+      { "name": "Al Pacino" },
+      { "name": "James Caan" },
+      { "name": "Richard S. Castellano" },
+      { "name": "Robert Duvall" }
+    ],
+    "genres": ["Crime", "Drama"],
+    "runtimes": 175,
+    "rating": 9.2,
+    "title": "The Godfather",
+    "year": 1972,
+    "director": [{ "name": "Francis Ford Coppola" }],
+    "production companies": [
+      { "name": "Paramount Pictures" },
+      { "name": "Alfran Productions" }
+    ]
+  },
+  "0071562": {
+    "original title": "Ojciec chrzestny II",
+    "cast": [
+      { "name": "Al Pacino" },
+      { "name": "Robert Duvall" },
+      { "name": "Diane Keaton" },
+      { "name": "Robert De Niro" },
+      { "name": "John Cazale" }
+    ],
+    "genres": ["Crime", "Drama"],
+    "runtimes": 202,
+    "rating": 9.0,
+    "title": "The Godfather: Part II",
+    "year": 1974,
+    "director": [{ "name": "Francis Ford Coppola" }],
+    "production companies": [
+      { "name": "Paramount Pictures" },
+      { "name": "The Coppola Company" },
+      { "name": "American Zoetrope" }
+    ]
+  },
+  "0468569": {
+    "original title": "Mroczny rycerz",
+    "cast": [
+      { "name": "Christian Bale" },
+      { "name": "Heath Ledger" },
+      { "name": "Aaron Eckhart" },
+      { "name": "Michael Caine" },
+      { "name": "Maggie Gyllenhaal" }
+    ],
+    "genres": ["Action", "Crime", "Drama", "Thriller"],
+    "runtimes": 152,
+    "rating": 9.0,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "director": [{ "name": "Christopher Nolan" }],
+    "production companies": [
+      { "name": "Warner Bros." },
+      { "name": "Legendary Entertainment" },
+      { "name": "Syncopy" },
+      { "name": "DC Comics" }
+    ]
+  },
+  "0050083": {
+    "original title": "Dwunastu gniewnych ludzi",
+    "cast": [
+      { "name": "Martin Balsam" },
+      { "name": "John Fiedler" },
+      { "name": "Lee J. Cobb" },
+      { "name": "E.G. Marshall" },
+      { "name": "Jack Klugman" }
+    ],
+    "genres": ["Drama"],
+    "runtimes": 96,
+    "rating": 8.9,
+    "title": "12 Angry Men",
+    "year": 1957,
+    "director": [{ "name": "Sidney Lumet" }],
+    "production companies": [{ "name": "Orion-Nova Productions" }]
+  },
+  "0108052": {
+    "original title": "Lista Schindlera",
+    "cast": [
+      { "name": "Liam Neeson" },
+      { "name": "Ben Kingsley" },
+      { "name": "Ralph Fiennes" },
+      { "name": "Caroline Goodall" },
+      { "name": "Jonathan Sagall" }
+    ],
+    "genres": ["Biography", "Drama", "History"],
+    "runtimes": 195,
+    "rating": 8.9,
+    "title": "Schindler's List",
+    "year": 1993,
+    "director": [{ "name": "Steven Spielberg" }],
+    "production companies": [
+      { "name": "Universal Pictures" },
+      { "name": "Amblin Entertainment" }
+    ]
+  },
+  "0167260": {
+    "original title": "W\u0142adca pier\u015bcieni: Powr\u00f3t kr\u00f3la",
+    "cast": [
+      { "name": "Noel Appleby" },
+      { "name": "Ali Astin" },
+      { "name": "Sean Astin" },
+      { "name": "David Aston" },
+      { "name": "John Bach" }
+    ],
+    "genres": ["Adventure", "Drama", "Fantasy"],
+    "runtimes": 201,
+    "rating": 8.9,
+    "title": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "director": [{ "name": "Peter Jackson" }],
+    "production companies": [
+      { "name": "New Line Cinema" },
+      { "name": "WingNut Films" },
+      { "name": "The Saul Zaentz Company" }
+    ]
+  },
+  "0110912": {
+    "original title": "Pulp Fiction",
+    "cast": [
+      { "name": "Tim Roth" },
+      { "name": "Amanda Plummer" },
+      { "name": "Laura Lovelace" },
+      { "name": "John Travolta" },
+      { "name": "Samuel L. Jackson" }
+    ],
+    "genres": ["Crime", "Drama"],
+    "runtimes": 154,
+    "rating": 8.9,
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "director": [{ "name": "Quentin Tarantino" }],
+    "production companies": [
+      { "name": "Miramax" },
+      { "name": "A Band Apart" },
+      { "name": "Jersey Films" }
+    ]
+  },
+  "0060196": {
+    "original title": "Dobry, z\u0142y i brzydki",
+    "cast": [
+      { "name": "Eli Wallach" },
+      { "name": "Clint Eastwood" },
+      { "name": "Lee Van Cleef" },
+      { "name": "Aldo Giuffr\u00e8" },
+      { "name": "Luigi Pistilli" }
+    ],
+    "genres": ["Western"],
+    "runtimes": 161,
+    "rating": 8.8,
+    "title": "The Good, the Bad and the Ugly",
+    "year": 1966,
+    "director": [{ "name": "Sergio Leone" }],
+    "production companies": [
+      { "name": "Produzioni Europee Associate (PEA)" },
+      { "name": "Arturo Gonz\u00e1lez Producciones Cinematogr\u00e1ficas" },
+      { "name": "Constantin Film" }
+    ]
+  },
+  "0137523": {
+    "original title": "Podziemny kr\u0105g",
+    "cast": [
+      { "name": "Edward Norton" },
+      { "name": "Brad Pitt" },
+      { "name": "Meat Loaf" },
+      { "name": "Zach Grenier" },
+      { "name": "Richmond Arquette" }
+    ],
+    "genres": ["Drama"],
+    "runtimes": 139,
+    "rating": 8.8,
+    "title": "Fight Club",
+    "year": 1999,
+    "director": [{ "name": "David Fincher" }],
+    "production companies": [
+      { "name": "Fox 2000 Pictures" },
+      { "name": "Regency Enterprises" },
+      { "name": "Linson Films" },
+      { "name": "Atman Entertainment" },
+      { "name": "Knickerbocker Films" }
+    ]
+  },
+  "0120737": {
+    "original title": "W\u0142adca pier\u015bcieni: Dru\u017cyna Pier\u015bcienia",
+    "cast": [
+      { "name": "Alan Howard" },
+      { "name": "Noel Appleby" },
+      { "name": "Sean Astin" },
+      { "name": "Sala Baker" },
+      { "name": "Sean Bean" }
+    ],
+    "genres": ["Adventure", "Drama", "Fantasy"],
+    "runtimes": 178,
+    "rating": 8.8,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "director": [{ "name": "Peter Jackson" }],
+    "production companies": [
+      { "name": "New Line Cinema" },
+      { "name": "WingNut Films" },
+      { "name": "The Saul Zaentz Company" }
+    ]
+  },
+  "0109830": {
+    "original title": "Forrest Gump",
+    "cast": [
+      { "name": "Tom Hanks" },
+      { "name": "Rebecca Williams" },
+      { "name": "Sally Field" },
+      { "name": "Michael Conner Humphreys" },
+      { "name": "Harold G. Herthum" }
+    ],
+    "genres": ["Drama", "Romance"],
+    "runtimes": 142,
+    "rating": 8.8,
+    "title": "Forrest Gump",
+    "year": 1994,
+    "director": [{ "name": "Robert Zemeckis" }],
+    "production companies": [{ "name": "Paramount Pictures" }]
+  },
+  "1375666": {
+    "original title": "Incepcja",
+    "cast": [
+      { "name": "Leonardo DiCaprio" },
+      { "name": "Joseph Gordon-Levitt" },
+      { "name": "Ellen Page" },
+      { "name": "Tom Hardy" },
+      { "name": "Ken Watanabe" }
+    ],
+    "genres": ["Action", "Adventure", "Sci-Fi", "Thriller"],
+    "runtimes": 148,
+    "rating": 8.8,
+    "title": "Inception",
+    "year": 2010,
+    "director": [{ "name": "Christopher Nolan" }],
+    "production companies": [
+      { "name": "Warner Bros." },
+      { "name": "Legendary Entertainment" },
+      { "name": "Syncopy" }
+    ]
+  },
+  "0080684": {
+    "original title": "Star Wars: Episode V - The Empire Strikes Back",
+    "cast": [
+      { "name": "Mark Hamill" },
+      { "name": "Harrison Ford" },
+      { "name": "Carrie Fisher" },
+      { "name": "Billy Dee Williams" },
+      { "name": "Anthony Daniels" }
+    ],
+    "genres": ["Action", "Adventure", "Fantasy", "Sci-Fi"],
+    "runtimes": 124,
+    "rating": 8.7,
+    "title": "Star Wars: Episode V - The Empire Strikes Back",
+    "year": 1980,
+    "director": [{ "name": "Irvin Kershner" }],
+    "production companies": [{ "name": "Lucasfilm" }]
+  },
+  "0167261": {
+    "original title": "W\u0142adca pier\u015bcieni: Dwie wie\u017ce",
+    "cast": [
+      { "name": "Bruce Allpress" },
+      { "name": "Sean Astin" },
+      { "name": "John Bach" },
+      { "name": "Sala Baker" },
+      { "name": "Cate Blanchett" }
+    ],
+    "genres": ["Adventure", "Drama", "Fantasy"],
+    "runtimes": 179,
+    "rating": 8.7,
+    "title": "The Lord of the Rings: The Two Towers",
+    "year": 2002,
+    "director": [{ "name": "Peter Jackson" }],
+    "production companies": [
+      { "name": "New Line Cinema" },
+      { "name": "WingNut Films" },
+      { "name": "The Saul Zaentz Company" }
+    ]
+  },
+  "0133093": {
+    "original title": "Matrix",
+    "cast": [
+      { "name": "Keanu Reeves" },
+      { "name": "Laurence Fishburne" },
+      { "name": "Carrie-Anne Moss" },
+      { "name": "Hugo Weaving" },
+      { "name": "Gloria Foster" }
+    ],
+    "genres": ["Action", "Sci-Fi"],
+    "runtimes": 136,
+    "rating": 8.7,
+    "title": "The Matrix",
+    "year": 1999,
+    "director": [{ "name": "Lana Wachowski" }, { "name": "Lilly Wachowski" }],
+    "production companies": [
+      { "name": "Warner Bros." },
+      { "name": "Village Roadshow Pictures" },
+      { "name": "Groucho Film Partnership" },
+      { "name": "Silver Pictures" },
+      { "name": "3 Arts Entertainment" }
+    ]
+  },
+  "0099685": {
+    "original title": "Ch\u0142opcy z ferajny",
+    "cast": [
+      { "name": "Robert De Niro" },
+      { "name": "Ray Liotta" },
+      { "name": "Joe Pesci" },
+      { "name": "Lorraine Bracco" },
+      { "name": "Paul Sorvino" }
+    ],
+    "genres": ["Biography", "Crime", "Drama"],
+    "runtimes": 146,
+    "rating": 8.7,
+    "title": "Goodfellas",
+    "year": 1990,
+    "director": [{ "name": "Martin Scorsese" }],
+    "production companies": [{ "name": "Warner Bros." }]
+  },
+  "0073486": {
+    "original title": "Lot nad kuku\u0142czym gniazdem",
+    "cast": [
+      { "name": "Jack Nicholson" },
+      { "name": "Louise Fletcher" },
+      { "name": "Will Sampson" },
+      { "name": "Michael Berryman" },
+      { "name": "Alonzo Brown" }
+    ],
+    "genres": ["Drama"],
+    "runtimes": 133,
+    "rating": 8.7,
+    "title": "One Flew Over the Cuckoo's Nest",
+    "year": 1975,
+    "director": [{ "name": "Milos Forman" }],
+    "production companies": [{ "name": "Fantasy Films" }]
+  },
+  "0047478": {
+    "original title": "Siedmiu samuraj\u00f3w",
+    "cast": [
+      { "name": "Toshir\u00f4 Mifune" },
+      { "name": "Takashi Shimura" },
+      { "name": "Keiko Tsushima" },
+      { "name": "Yukiko Shimazaki" },
+      { "name": "Kamatari Fujiwara" }
+    ],
+    "genres": ["Action", "Adventure", "Drama"],
+    "runtimes": 207,
+    "rating": 8.6,
+    "title": "Seven Samurai",
+    "year": 1954,
+    "director": [{ "name": "Akira Kurosawa" }],
+    "production companies": [{ "name": "Toho Company" }]
+  },
+  "0114369": {
+    "original title": "Siedem",
+    "cast": [
+      { "name": "Morgan Freeman" },
+      { "name": "Andrew Kevin Walker" },
+      { "name": "Daniel Zacapa" },
+      { "name": "Brad Pitt" },
+      { "name": "Gwyneth Paltrow" }
+    ],
+    "genres": ["Crime", "Drama", "Mystery", "Thriller"],
+    "runtimes": 127,
+    "rating": 8.6,
+    "title": "Se7en",
+    "year": 1995,
+    "director": [{ "name": "David Fincher" }],
+    "production companies": [
+      { "name": "Cecchi Gori Pictures" },
+      { "name": "Juno Pix" },
+      { "name": "New Line Cinema" }
+    ]
+  },
+  "0317248": {
+    "original title": "Miasto Boga",
+    "cast": [
+      { "name": "Alexandre Rodrigues" },
+      { "name": "Leandro Firmino" },
+      { "name": "Phellipe Haagensen" },
+      { "name": "Douglas Silva" },
+      { "name": "Jonathan Haagensen" }
+    ],
+    "genres": ["Crime", "Drama"],
+    "runtimes": 130,
+    "rating": 8.6,
+    "title": "City of God",
+    "year": 2002,
+    "director": [
+      { "name": "Fernando Meirelles" },
+      { "name": "K\u00e1tia Lund" }
+    ],
+    "production companies": [
+      { "name": "O2 Filmes" },
+      { "name": "VideoFilmes" },
+      { "name": "Globo Filmes" },
+      { "name": "Lumi\u00e8re" },
+      { "name": "Wild Bunch" }
+    ]
+  },
+  "0118799": {
+    "original title": "La vita \u00e8 bella",
+    "cast": [
+      { "name": "Roberto Benigni" },
+      { "name": "Nicoletta Braschi" },
+      { "name": "Giorgio Cantarini" },
+      { "name": "Giustino Durano" },
+      { "name": "Sergio Bini Bustric" }
+    ],
+    "genres": ["Comedy", "Drama", "Romance", "War"],
+    "runtimes": 116,
+    "rating": 8.6,
+    "title": "Life Is Beautiful",
+    "year": 1997,
+    "director": [{ "name": "Roberto Benigni" }],
+    "production companies": [
+      { "name": "Melampo Cinematografica" },
+      { "name": "Cecchi Gori Group Tiger Cinematografica" }
+    ]
+  },
+  "0102926": {
+    "original title": "Milczenie owiec",
+    "cast": [
+      { "name": "Jodie Foster" },
+      { "name": "Lawrence A. Bonney" },
+      { "name": "Kasi Lemmons" },
+      { "name": "Lawrence T. Wrentz" },
+      { "name": "Scott Glenn" }
+    ],
+    "genres": ["Crime", "Drama", "Thriller"],
+    "runtimes": 118,
+    "rating": 8.6,
+    "title": "The Silence of the Lambs",
+    "year": 1991,
+    "director": [{ "name": "Jonathan Demme" }],
+    "production companies": [
+      { "name": "Strong Heart/Demme Production" },
+      { "name": "Orion Pictures" }
+    ]
+  },
+  "0038650": {
+    "original title": "To wspania\u0142e \u017cycie",
+    "cast": [
+      { "name": "James Stewart" },
+      { "name": "Donna Reed" },
+      { "name": "Lionel Barrymore" },
+      { "name": "Thomas Mitchell" },
+      { "name": "Henry Travers" }
+    ],
+    "genres": ["Drama", "Family", "Fantasy"],
+    "runtimes": 130,
+    "rating": 8.6,
+    "title": "It's a Wonderful Life",
+    "year": 1946,
+    "director": [{ "name": "Frank Capra" }],
+    "production companies": [{ "name": "Liberty Films (II)" }]
+  },
+  "0076759": {
+    "original title": "Gwiezdne wojny",
+    "cast": [
+      { "name": "Mark Hamill" },
+      { "name": "Harrison Ford" },
+      { "name": "Carrie Fisher" },
+      { "name": "Peter Cushing" },
+      { "name": "Alec Guinness" }
+    ],
+    "genres": ["Action", "Adventure", "Fantasy", "Sci-Fi"],
+    "runtimes": 121,
+    "rating": 8.6,
+    "title": "Star Wars: Episode IV - A New Hope",
+    "year": 1977,
+    "director": [{ "name": "George Lucas" }],
+    "production companies": [
+      { "name": "Lucasfilm" },
+      { "name": "Twentieth Century Fox" }
+    ]
+  },
+  "7286456": {
+    "original title": "Joker",
+    "cast": [
+      { "name": "Joaquin Phoenix" },
+      { "name": "Robert De Niro" },
+      { "name": "Zazie Beetz" },
+      { "name": "Frances Conroy" },
+      { "name": "Brett Cullen" }
+    ],
+    "genres": ["Crime", "Drama", "Thriller"],
+    "runtimes": 122,
+    "rating": 8.7,
+    "title": "Joker",
+    "year": 2019,
+    "director": [{ "name": "Todd Phillips" }],
+    "production companies": [
+      { "name": "Warner Bros." },
+      { "name": "Village Roadshow Pictures" },
+      { "name": "BRON Studios" },
+      { "name": "Joint Effort" },
+      { "name": "DC Comics" }
+    ]
+  },
+  "0120815": {
+    "original title": "Szeregowiec Ryan",
+    "cast": [
+      { "name": "Tom Hanks" },
+      { "name": "Tom Sizemore" },
+      { "name": "Edward Burns" },
+      { "name": "Barry Pepper" },
+      { "name": "Adam Goldberg" }
+    ],
+    "genres": ["Drama", "War"],
+    "runtimes": 169,
+    "rating": 8.6,
+    "title": "Saving Private Ryan",
+    "year": 1998,
+    "director": [{ "name": "Steven Spielberg" }],
+    "production companies": [
+      { "name": "DreamWorks" },
+      { "name": "Paramount Pictures" },
+      { "name": "Amblin Entertainment" },
+      { "name": "Mutual Film Company" },
+      { "name": "H2L Media Group" }
+    ]
+  },
+  "0245429": {
+    "original title": "Spirited Away: W krainie bog\u00f3w",
+    "cast": [
+      { "name": "Rumi Hiiragi" },
+      { "name": "Miyu Irino" },
+      { "name": "Mari Natsuki" },
+      { "name": "Takashi Nait\u00f4" },
+      { "name": "Yasuko Sawaguchi" }
+    ],
+    "genres": ["Animation", "Adventure", "Family", "Fantasy", "Mystery"],
+    "runtimes": 125,
+    "rating": 8.6,
+    "title": "Spirited Away",
+    "year": 2001,
+    "director": [{ "name": "Hayao Miyazaki" }],
+    "production companies": [
+      { "name": "Tokuma Shoten" },
+      { "name": "Studio Ghibli" },
+      { "name": "Nippon Television Network (NTV)" },
+      { "name": "Dentsu" },
+      { "name": "Buena Vista Home Entertainment" }
+    ]
+  },
+  "6751668": {
+    "original title": "Parasite",
+    "cast": [
+      { "name": "Kang-ho Song" },
+      { "name": "Sun-kyun Lee" },
+      { "name": "Yeo-jeong Jo" },
+      { "name": "Woo-sik Choi" },
+      { "name": "So-dam Park" }
+    ],
+    "genres": ["Comedy", "Drama", "Thriller"],
+    "runtimes": 132,
+    "rating": 8.6,
+    "title": "Parasite",
+    "year": 2019,
+    "director": [{ "name": "Bong Joon Ho" }],
+    "production companies": [
+      { "name": "Barunson E&A" },
+      { "name": "CJ E&M Film Financing & Investment Entertainment & Comics" },
+      { "name": "CJ Entertainment" },
+      { "name": "TMS Comics" },
+      { "name": "TMS Entertainment" }
+    ]
+  },
+  "0120689": {
+    "original title": "Zielona mila",
+    "cast": [
+      { "name": "Tom Hanks" },
+      { "name": "David Morse" },
+      { "name": "Bonnie Hunt" },
+      { "name": "Michael Clarke Duncan" },
+      { "name": "James Cromwell" }
+    ],
+    "genres": ["Crime", "Drama", "Fantasy", "Mystery"],
+    "runtimes": 189,
+    "rating": 8.6,
+    "title": "The Green Mile",
+    "year": 1999,
+    "director": [{ "name": "Frank Darabont" }],
+    "production companies": [
+      { "name": "Castle Rock Entertainment" },
+      { "name": "Darkwoods Productions" },
+      { "name": "Warner Bros." }
+    ]
+  },
+  "0816692": {
+    "original title": "Interstellar",
+    "cast": [
+      { "name": "Ellen Burstyn" },
+      { "name": "Matthew McConaughey" },
+      { "name": "Mackenzie Foy" },
+      { "name": "John Lithgow" },
+      { "name": "Timoth\u00e9e Chalamet" }
+    ],
+    "genres": ["Adventure", "Drama", "Sci-Fi"],
+    "runtimes": 169,
+    "rating": 8.6,
+    "title": "Interstellar",
+    "year": 2014,
+    "director": [{ "name": "Christopher Nolan" }],
+    "production companies": [
+      { "name": "Paramount Pictures" },
+      { "name": "Warner Bros." },
+      { "name": "Legendary Entertainment" },
+      { "name": "Syncopy" },
+      { "name": "Lynda Obst Productions" }
+    ]
+  },
+  "0110413": {
+    "original title": "L\u00e9on zawodowiec",
+    "cast": [
+      { "name": "Jean Reno" },
+      { "name": "Gary Oldman" },
+      { "name": "Natalie Portman" },
+      { "name": "Danny Aiello" },
+      { "name": "Peter Appel" }
+    ],
+    "genres": ["Action", "Crime", "Drama", "Thriller"],
+    "runtimes": 110,
+    "rating": 8.5,
+    "title": "L\u00e9on: The Professional",
+    "year": 1994,
+    "director": [{ "name": "Luc Besson" }],
+    "production companies": [
+      { "name": "Gaumont" },
+      { "name": "Les Films du Dauphin" }
+    ]
+  },
+  "0056058": {
+    "original title": "Harakiri",
+    "cast": [
+      { "name": "Tatsuya Nakadai" },
+      { "name": "Akira Ishihama" },
+      { "name": "Shima Iwashita" },
+      { "name": "Tetsur\u00f4 Tanba" },
+      { "name": "Masao Mishima" }
+    ],
+    "genres": ["Drama", "History"],
+    "runtimes": 133,
+    "rating": 8.7,
+    "title": "Harakiri",
+    "year": 1962,
+    "director": [{ "name": "Masaki Kobayashi" }],
+    "production companies": [{ "name": "Shochiku" }]
+  },
+  "0114814": {
+    "original title": "Podejrzani",
+    "cast": [
+      { "name": "Stephen Baldwin" },
+      { "name": "Gabriel Byrne" },
+      { "name": "Benicio Del Toro" },
+      { "name": "Kevin Pollak" },
+      { "name": "Kevin Spacey" }
+    ],
+    "genres": ["Crime", "Mystery", "Thriller"],
+    "runtimes": 106,
+    "rating": 8.5,
+    "title": "The Usual Suspects",
+    "year": 1995,
+    "director": [{ "name": "Bryan Singer" }],
+    "production companies": [
+      { "name": "PolyGram Filmed Entertainment" },
+      { "name": "Spelling Films International" },
+      { "name": "Blue Parrot" },
+      { "name": "Bad Hat Harry Productions" },
+      { "name": "Rosco Film GmbH" }
+    ]
+  },
+  "0110357": {
+    "original title": "Kr\u00f3l Lew",
+    "cast": [
+      { "name": "Rowan Atkinson" },
+      { "name": "Matthew Broderick" },
+      { "name": "Niketa Calame-Harris" },
+      { "name": "Jim Cummings" },
+      { "name": "Whoopi Goldberg" }
+    ],
+    "genres": ["Animation", "Adventure", "Drama", "Family", "Musical"],
+    "runtimes": 88,
+    "rating": 8.5,
+    "title": "The Lion King",
+    "year": 1994,
+    "director": [{ "name": "Roger Allers" }, { "name": "Rob Minkoff" }],
+    "production companies": [
+      { "name": "Walt Disney Pictures" },
+      { "name": "Walt Disney Animation Studios" }
+    ]
+  },
+  "0120586": {
+    "original title": "Wi\u0119zie\u0144 nienawi\u015bci",
+    "cast": [
+      { "name": "Edward Norton" },
+      { "name": "Edward Furlong" },
+      { "name": "Beverly D'Angelo" },
+      { "name": "Jennifer Lien" },
+      { "name": "Ethan Suplee" }
+    ],
+    "genres": ["Drama"],
+    "runtimes": 119,
+    "rating": 8.5,
+    "title": "American History X",
+    "year": 1998,
+    "director": [{ "name": "Tony Kaye" }],
+    "production companies": [
+      { "name": "New Line Cinema" },
+      { "name": "Savoy Pictures" },
+      { "name": "The Turman-Morrissey Company" }
+    ]
+  },
+  "0088763": {
+    "original title": "Powr\u00f3t do przysz\u0142o\u015bci",
+    "cast": [
+      { "name": "Michael J. Fox" },
+      { "name": "Christopher Lloyd" },
+      { "name": "Lea Thompson" },
+      { "name": "Crispin Glover" },
+      { "name": "Thomas F. Wilson" }
+    ],
+    "genres": ["Adventure", "Comedy", "Sci-Fi"],
+    "runtimes": 116,
+    "rating": 8.5,
+    "title": "Back to the Future",
+    "year": 1985,
+    "director": [{ "name": "Robert Zemeckis" }],
+    "production companies": [
+      { "name": "Universal Pictures" },
+      { "name": "Amblin Entertainment" },
+      { "name": "U-Drive Productions" }
+    ]
+  },
+  "0253474": {
+    "original title": "Pianista",
+    "cast": [
+      { "name": "Adrien Brody" },
+      { "name": "Emilia Fox" },
+      { "name": "Michal Zebrowski" },
+      { "name": "Ed Stoppard" },
+      { "name": "Maureen Lipman" }
+    ],
+    "genres": ["Biography", "Drama", "Music", "War"],
+    "runtimes": 150,
+    "rating": 8.5,
+    "title": "The Pianist",
+    "year": 2002,
+    "director": [{ "name": "Roman Polanski" }],
+    "production companies": [
+      { "name": "R.P. Productions" },
+      { "name": "Heritage Films" },
+      { "name": "Studio Babelsberg" },
+      { "name": "Runteam" },
+      { "name": "Canal+" }
+    ]
+  },
+  "0103064": {
+    "original title": "Terminator 2: Dzie\u0144 s\u0105du",
+    "cast": [
+      { "name": "Arnold Schwarzenegger" },
+      { "name": "Linda Hamilton" },
+      { "name": "Edward Furlong" },
+      { "name": "Robert Patrick" },
+      { "name": "Earl Boen" }
+    ],
+    "genres": ["Action", "Sci-Fi"],
+    "runtimes": 137,
+    "rating": 8.5,
+    "title": "Terminator 2: Judgment Day",
+    "year": 1991,
+    "director": [{ "name": "James Cameron" }],
+    "production companies": [
+      { "name": "Carolco Pictures" },
+      { "name": "Pacific Western" },
+      { "name": "Lightstorm Entertainment" },
+      { "name": "Canal Plus" },
+      { "name": "T2 Productions" }
+    ]
+  },
+  "0027977": {
+    "original title": "Dzisiejsze czasy",
+    "cast": [
+      { "name": "Charles Chaplin" },
+      { "name": "Paulette Goddard" },
+      { "name": "Henry Bergman" },
+      { "name": "Tiny Sandford" },
+      { "name": "Chester Conklin" }
+    ],
+    "genres": ["Comedy", "Drama", "Family", "Romance"],
+    "runtimes": 87,
+    "rating": 8.5,
+    "title": "Modern Times",
+    "year": 1936,
+    "director": [{ "name": "Charles Chaplin" }],
+    "production companies": [{ "name": "Charles Chaplin Productions" }]
+  },
+  "0054215": {
+    "original title": "Psychoza",
+    "cast": [
+      { "name": "Anthony Perkins" },
+      { "name": "Vera Miles" },
+      { "name": "John Gavin" },
+      { "name": "Janet Leigh" },
+      { "name": "Martin Balsam" }
+    ],
+    "genres": ["Horror", "Mystery", "Thriller"],
+    "runtimes": 109,
+    "rating": 8.5,
+    "title": "Psycho",
+    "year": 1960,
+    "director": [{ "name": "Alfred Hitchcock" }],
+    "production companies": [{ "name": "Shamley Productions" }]
+  },
+  "0172495": {
+    "original title": "Gladiator",
+    "cast": [
+      { "name": "Russell Crowe" },
+      { "name": "Joaquin Phoenix" },
+      { "name": "Connie Nielsen" },
+      { "name": "Oliver Reed" },
+      { "name": "Richard Harris" }
+    ],
+    "genres": ["Action", "Adventure", "Drama"],
+    "runtimes": 155,
+    "rating": 8.5,
+    "title": "Gladiator",
+    "year": 2000,
+    "director": [{ "name": "Ridley Scott" }],
+    "production companies": [
+      { "name": "DreamWorks" },
+      { "name": "Universal Pictures" },
+      { "name": "Scott Free Productions" },
+      { "name": "Mill Film" },
+      { "name": "C & L" }
+    ]
+  },
+  "1675434": {
+    "original title": "Nietykalni",
+    "cast": [
+      { "name": "Fran\u00e7ois Cluzet" },
+      { "name": "Omar Sy" },
+      { "name": "Anne Le Ny" },
+      { "name": "Audrey Fleurot" },
+      { "name": "Jos\u00e9phine de Meaux" }
+    ],
+    "genres": ["Biography", "Comedy", "Drama"],
+    "runtimes": 112,
+    "rating": 8.5,
+    "title": "The Intouchables",
+    "year": 2011,
+    "director": [
+      { "name": "Olivier Nakache" },
+      { "name": "\u00c9ric Toledano" }
+    ],
+    "production companies": [
+      { "name": "Quad Productions" },
+      { "name": "Ten Films" },
+      { "name": "Canal+" },
+      { "name": "Cin\u00e9Cin\u00e9ma" },
+      { "name": "TF1" }
+    ]
+  },
+  "0021749": {
+    "original title": "\u015awiat\u0142a wielkiego miasta",
+    "cast": [
+      { "name": "Virginia Cherrill" },
+      { "name": "Florence Lee" },
+      { "name": "Harry Myers" },
+      { "name": "Al Ernest Garcia" },
+      { "name": "Hank Mann" }
+    ],
+    "genres": ["Comedy", "Drama", "Romance"],
+    "runtimes": 87,
+    "rating": 8.5,
+    "title": "City Lights",
+    "year": 1931,
+    "director": [{ "name": "Charles Chaplin" }],
+    "production companies": [{ "name": "Charles Chaplin Productions" }]
+  },
+  "0407887": {
+    "original title": "Infiltracja",
+    "cast": [
+      { "name": "Leonardo DiCaprio" },
+      { "name": "Matt Damon" },
+      { "name": "Jack Nicholson" },
+      { "name": "Mark Wahlberg" },
+      { "name": "Martin Sheen" }
+    ],
+    "genres": ["Crime", "Drama", "Thriller"],
+    "runtimes": 151,
+    "rating": 8.5,
+    "title": "The Departed",
+    "year": 2006,
+    "director": [{ "name": "Martin Scorsese" }],
+    "production companies": [
+      { "name": "Warner Bros." },
+      { "name": "Plan B Entertainment" },
+      { "name": "Initial Entertainment Group" },
+      { "name": "Vertigo Entertainment" },
+      { "name": "Media Asia Films" }
+    ]
+  },
+  "2582802": {
+    "original title": "Whiplash",
+    "cast": [
+      { "name": "Miles Teller" },
+      { "name": "J.K. Simmons" },
+      { "name": "Paul Reiser" },
+      { "name": "Melissa Benoist" },
+      { "name": "Austin Stowell" }
+    ],
+    "genres": ["Drama", "Music"],
+    "runtimes": 106,
+    "rating": 8.5,
+    "title": "Whiplash",
+    "year": 2014,
+    "director": [{ "name": "Damien Chazelle" }],
+    "production companies": [
+      { "name": "Bold Films" },
+      { "name": "Blumhouse Productions" },
+      { "name": "Right of Way Films" },
+      { "name": "Sierra / Affinity" }
+    ]
+  },
+  "0064116": {
+    "original title": "Pewnego razu na Dzikim Zachodzie",
+    "cast": [
+      { "name": "Claudia Cardinale" },
+      { "name": "Henry Fonda" },
+      { "name": "Jason Robards" },
+      { "name": "Charles Bronson" },
+      { "name": "Gabriele Ferzetti" }
+    ],
+    "genres": ["Western"],
+    "runtimes": 165,
+    "rating": 8.5,
+    "title": "Once Upon a Time in the West",
+    "year": 1968,
+    "director": [{ "name": "Sergio Leone" }],
+    "production companies": [
+      { "name": "Rafran Cinematografica" },
+      { "name": "San Marco" },
+      { "name": "Paramount Pictures" },
+      { "name": "Euro International Film (EIA)" }
+    ]
+  },
+  "0482571": {
+    "original title": "Presti\u017c",
+    "cast": [
+      { "name": "Hugh Jackman" },
+      { "name": "Christian Bale" },
+      { "name": "Michael Caine" },
+      { "name": "Piper Perabo" },
+      { "name": "Rebecca Hall" }
+    ],
+    "genres": ["Drama", "Mystery", "Sci-Fi", "Thriller"],
+    "runtimes": 130,
+    "rating": 8.5,
+    "title": "The Prestige",
+    "year": 2006,
+    "director": [{ "name": "Christopher Nolan" }],
+    "production companies": [
+      { "name": "Touchstone Pictures" },
+      { "name": "Warner Bros." },
+      { "name": "Newmarket Productions" },
+      { "name": "Syncopy" }
+    ]
+  },
+  "0034583": {
+    "original title": "Casablanca",
+    "cast": [
+      { "name": "Humphrey Bogart" },
+      { "name": "Ingrid Bergman" },
+      { "name": "Paul Henreid" },
+      { "name": "Claude Rains" },
+      { "name": "Conrad Veidt" }
+    ],
+    "genres": ["Drama", "Romance", "War"],
+    "runtimes": 102,
+    "rating": 8.5,
+    "title": "Casablanca",
+    "year": 1942,
+    "director": [{ "name": "Michael Curtiz" }],
+    "production companies": [{ "name": "Warner Bros." }]
+  },
+  "0095327": {
+    "original title": "Grobowiec \u015bwietlik\u00f3w",
+    "cast": [
+      { "name": "Tsutomu Tatsumi" },
+      { "name": "Ayano Shiraishi" },
+      { "name": "Yoshiko Shinohara" },
+      { "name": "Akemi Yamaguchi" },
+      { "name": "Tadashi Nakamura" }
+    ],
+    "genres": ["Animation", "Drama", "War"],
+    "runtimes": 89,
+    "rating": 8.5,
+    "title": "Grave of the Fireflies",
+    "year": 1988,
+    "director": [{ "name": "Isao Takahata" }],
+    "production companies": [
+      { "name": "Shinchosha Company" },
+      { "name": "Studio Ghibli" }
+    ]
+  },
+  "0047396": {
+    "original title": "Okno na podw\u00f3rze",
+    "cast": [
+      { "name": "James Stewart" },
+      { "name": "Grace Kelly" },
+      { "name": "Wendell Corey" },
+      { "name": "Thelma Ritter" },
+      { "name": "Raymond Burr" }
+    ],
+    "genres": ["Mystery", "Thriller"],
+    "runtimes": 112,
+    "rating": 8.4,
+    "title": "Rear Window",
+    "year": 1954,
+    "director": [{ "name": "Alfred Hitchcock" }],
+    "production companies": [{ "name": "Alfred J. Hitchcock Productions" }]
+  },
+  "0095765": {
+    "original title": "Cinema Paradiso",
+    "cast": [
+      { "name": "Antonella Attili" },
+      { "name": "Enzo Cannavale" },
+      { "name": "Isa Danieli" },
+      { "name": "Leo Gullotta" },
+      { "name": "Marco Leonardi" }
+    ],
+    "genres": ["Drama"],
+    "runtimes": 155,
+    "rating": 8.5,
+    "title": "Cinema Paradiso",
+    "year": 1988,
+    "director": [{ "name": "Giuseppe Tornatore" }],
+    "production companies": [
+      { "name": "Cristaldifilm" },
+      { "name": "Les Films Ariane" },
+      { "name": "Rai 3" },
+      { "name": "TF1 Films Production" },
+      { "name": "Forum Picture" }
+    ]
+  },
+  "0078748": {
+    "original title": "Obcy - 8. pasa\u017cer Nostromo",
+    "cast": [
+      { "name": "Tom Skerritt" },
+      { "name": "Sigourney Weaver" },
+      { "name": "Veronica Cartwright" },
+      { "name": "Harry Dean Stanton" },
+      { "name": "John Hurt" }
+    ],
+    "genres": ["Horror", "Sci-Fi"],
+    "runtimes": 117,
+    "rating": 8.4,
+    "title": "Alien",
+    "year": 1979,
+    "director": [{ "name": "Ridley Scott" }],
+    "production companies": [
+      { "name": "Brandywine Productions" },
+      { "name": "Twentieth Century-Fox Productions" }
+    ]
+  },
+  "0082971": {
+    "original title": "Poszukiwacze zaginionej arki",
+    "cast": [
+      { "name": "Harrison Ford" },
+      { "name": "Karen Allen" },
+      { "name": "Paul Freeman" },
+      { "name": "Ronald Lacey" },
+      { "name": "John Rhys-Davies" }
+    ],
+    "genres": ["Action", "Adventure"],
+    "runtimes": 115,
+    "rating": 8.4,
+    "title": "Raiders of the Lost Ark",
+    "year": 1981,
+    "director": [{ "name": "Steven Spielberg" }],
+    "production companies": [
+      { "name": "Paramount Pictures" },
+      { "name": "Lucasfilm" }
+    ]
+  },
+  "0078788": {
+    "original title": "Czas Apokalipsy",
+    "cast": [
+      { "name": "Marlon Brando" },
+      { "name": "Martin Sheen" },
+      { "name": "Robert Duvall" },
+      { "name": "Frederic Forrest" },
+      { "name": "Sam Bottoms" }
+    ],
+    "genres": ["Drama", "Mystery", "War"],
+    "runtimes": 147,
+    "rating": 8.4,
+    "title": "Apocalypse Now",
+    "year": 1979,
+    "director": [{ "name": "Francis Ford Coppola" }],
+    "production companies": [
+      { "name": "Zoetrope" },
+      { "name": "Zoetrope Studios" }
+    ]
+  },
+  "0209144": {
+    "original title": "Memento",
+    "cast": [
+      { "name": "Guy Pearce" },
+      { "name": "Carrie-Anne Moss" },
+      { "name": "Joe Pantoliano" },
+      { "name": "Mark Boone Junior" },
+      { "name": "Russ Fega" }
+    ],
+    "genres": ["Mystery", "Thriller"],
+    "runtimes": 113,
+    "rating": 8.4,
+    "title": "Memento",
+    "year": 2000,
+    "director": [{ "name": "Christopher Nolan" }],
+    "production companies": [
+      { "name": "Newmarket Capital Group" },
+      { "name": "Team Todd" },
+      { "name": "I Remember Productions" },
+      { "name": "Summit Entertainment" }
+    ]
+  },
+  "0032553": {
+    "original title": "Dyktator",
+    "cast": [
+      { "name": "Charles Chaplin" },
+      { "name": "Jack Oakie" },
+      { "name": "Reginald Gardiner" },
+      { "name": "Henry Daniell" },
+      { "name": "Billy Gilbert" }
+    ],
+    "genres": ["Comedy", "Drama", "War"],
+    "runtimes": 125,
+    "rating": 8.5,
+    "title": "The Great Dictator",
+    "year": 1940,
+    "director": [{ "name": "Charles Chaplin" }],
+    "production companies": [
+      { "name": "Charles Chaplin Productions" },
+      { "name": "One Production Company" }
+    ]
+  },
+  "0405094": {
+    "original title": "\u017bycie na pods\u0142uchu",
+    "cast": [
+      { "name": "Martina Gedeck" },
+      { "name": "Ulrich M\u00fche" },
+      { "name": "Sebastian Koch" },
+      { "name": "Ulrich Tukur" },
+      { "name": "Thomas Thieme" }
+    ],
+    "genres": ["Drama", "Mystery", "Thriller"],
+    "runtimes": 137,
+    "rating": 8.4,
+    "title": "The Lives of Others",
+    "year": 2006,
+    "director": [{ "name": "Florian Henckel von Donnersmarck" }],
+    "production companies": [
+      { "name": "Wiedemann & Berg Filmproduktion" },
+      { "name": "Bayerischer Rundfunk (BR)" },
+      { "name": "ARTE" },
+      { "name": "Creado Film" }
+    ]
+  },
+  "4154796": {
+    "original title": "Avengers: Koniec gry",
+    "cast": [
+      { "name": "Robert Downey Jr." },
+      { "name": "Chris Evans" },
+      { "name": "Mark Ruffalo" },
+      { "name": "Chris Hemsworth" },
+      { "name": "Scarlett Johansson" }
+    ],
+    "genres": ["Action", "Adventure", "Drama", "Sci-Fi"],
+    "runtimes": 181,
+    "rating": 8.5,
+    "title": "Avengers: Endgame",
+    "year": 2019,
+    "director": [{ "name": "Anthony Russo" }, { "name": "Joe Russo" }],
+    "production companies": [{ "name": "Marvel Studios" }]
+  },
+  "1853728": {
+    "original title": "Django",
+    "cast": [
+      { "name": "Jamie Foxx" },
+      { "name": "Christoph Waltz" },
+      { "name": "Leonardo DiCaprio" },
+      { "name": "Kerry Washington" },
+      { "name": "Samuel L. Jackson" }
+    ],
+    "genres": ["Drama", "Western"],
+    "runtimes": 165,
+    "rating": 8.4,
+    "title": "Django Unchained",
+    "year": 2012,
+    "director": [{ "name": "Quentin Tarantino" }],
+    "production companies": [
+      { "name": "The Weinstein Company" },
+      { "name": "Columbia Pictures" }
+    ]
+  },
+  "4154756": {
+    "original title": "Avengers: Wojna bez granic",
+    "cast": [
+      { "name": "Robert Downey Jr." },
+      { "name": "Chris Hemsworth" },
+      { "name": "Mark Ruffalo" },
+      { "name": "Chris Evans" },
+      { "name": "Scarlett Johansson" }
+    ],
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "runtimes": 149,
+    "rating": 8.5,
+    "title": "Avengers: Infinity War",
+    "year": 2018,
+    "director": [{ "name": "Anthony Russo" }, { "name": "Joe Russo" }],
+    "production companies": [
+      { "name": "Marvel Studios" },
+      { "name": "Jason Roberts Productions" },
+      { "name": "South Pictures" }
+    ]
+  },
+  "0081505": {
+    "original title": "L\u015bnienie",
+    "cast": [
+      { "name": "Jack Nicholson" },
+      { "name": "Shelley Duvall" },
+      { "name": "Danny Lloyd" },
+      { "name": "Scatman Crothers" },
+      { "name": "Barry Nelson" }
+    ],
+    "genres": ["Drama", "Horror"],
+    "runtimes": 146,
+    "rating": 8.4,
+    "title": "The Shining",
+    "year": 1980,
+    "director": [{ "name": "Stanley Kubrick" }],
+    "production companies": [
+      { "name": "Warner Bros." },
+      { "name": "Hawk Films" },
+      { "name": "Peregrine" },
+      { "name": "Producers Circle" }
+    ]
+  },
+  "0050825": {
+    "original title": "\u015acie\u017cki chwa\u0142y",
+    "cast": [
+      { "name": "Kirk Douglas" },
+      { "name": "Ralph Meeker" },
+      { "name": "Adolphe Menjou" },
+      { "name": "George Macready" },
+      { "name": "Wayne Morris" }
+    ],
+    "genres": ["Drama", "War"],
+    "runtimes": 88,
+    "rating": 8.4,
+    "title": "Paths of Glory",
+    "year": 1957,
+    "director": [{ "name": "Stanley Kubrick" }],
+    "production companies": [{ "name": "Bryna Productions" }]
+  },
+  "4633694": {
+    "original title": "Spider-Man Uniwersum",
+    "cast": [
+      { "name": "Shameik Moore" },
+      { "name": "Jake Johnson" },
+      { "name": "Hailee Steinfeld" },
+      { "name": "Mahershala Ali" },
+      { "name": "Brian Tyree Henry" }
+    ],
+    "genres": ["Animation", "Action", "Adventure", "Family", "Sci-Fi"],
+    "runtimes": 117,
+    "rating": 8.4,
+    "title": "Spider-Man: Into the Spider-Verse",
+    "year": 2018,
+    "director": [
+      { "name": "Bob Persichetti" },
+      { "name": "Peter Ramsey" },
+      { "name": "Rodney Rothman" }
+    ],
+    "production companies": [
+      { "name": "Sony Pictures Entertainment" },
+      { "name": "Columbia Pictures" },
+      { "name": "Marvel Entertainment" },
+      { "name": "Avi Arad Productions" },
+      { "name": "Lord Miller" }
+    ]
+  },
+  "0910970": {
+    "original title": "WALL\u00b7E",
+    "cast": [
+      { "name": "Ben Burtt" },
+      { "name": "Elissa Knight" },
+      { "name": "Jeff Garlin" },
+      { "name": "Fred Willard" },
+      { "name": "MacInTalk" }
+    ],
+    "genres": ["Animation", "Adventure", "Family", "Sci-Fi"],
+    "runtimes": 98,
+    "rating": 8.4,
+    "title": "WALL\u00b7E",
+    "year": 2008,
+    "director": [{ "name": "Andrew Stanton" }],
+    "production companies": [
+      { "name": "FortyFour Studios" },
+      { "name": "Pixar Animation Studios" },
+      { "name": "Walt Disney Pictures" }
+    ]
+  },
+  "0043014": {
+    "original title": "Bulwar Zachodz\u0105cego S\u0142o\u0144ca",
+    "cast": [
+      { "name": "William Holden" },
+      { "name": "Gloria Swanson" },
+      { "name": "Erich von Stroheim" },
+      { "name": "Nancy Olson" },
+      { "name": "Fred Clark" }
+    ],
+    "genres": ["Drama", "Film-Noir"],
+    "runtimes": 110,
+    "rating": 8.4,
+    "title": "Sunset Blvd.",
+    "year": 1950,
+    "director": [{ "name": "Billy Wilder" }],
+    "production companies": [{ "name": "Paramount Pictures" }]
+  },
+  "0119698": {
+    "original title": "Ksi\u0119\u017cniczka Mononoke",
+    "cast": [
+      { "name": "Billy Crudup" },
+      { "name": "Billy Bob Thornton" },
+      { "name": "Minnie Driver" },
+      { "name": "John DiMaggio" },
+      { "name": "Claire Danes" }
+    ],
+    "genres": ["Animation", "Adventure", "Fantasy"],
+    "runtimes": 134,
+    "rating": 8.4,
+    "title": "Princess Mononoke",
+    "year": 1997,
+    "director": [{ "name": "Hayao Miyazaki" }],
+    "production companies": [
+      { "name": "DENTSU Music And Entertainment" },
+      { "name": "Nibariki" },
+      { "name": "Nippon Television Network" },
+      { "name": "Studio Ghibli" },
+      { "name": "TNDG" }
+    ]
+  },
+  "0057012": {
+    "original title": "Dr Strangelove, czyli jak przesta\u0142em si\u0119 martwi\u0107 i pokocha\u0142em bomb\u0119",
+    "cast": [
+      { "name": "Peter Sellers" },
+      { "name": "George C. Scott" },
+      { "name": "Sterling Hayden" },
+      { "name": "Keenan Wynn" },
+      { "name": "Slim Pickens" }
+    ],
+    "genres": ["Comedy"],
+    "runtimes": 95,
+    "rating": 8.4,
+    "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "year": 1964,
+    "director": [{ "name": "Stanley Kubrick" }],
+    "production companies": [
+      { "name": "Columbia Pictures" },
+      { "name": "Hawk Films" }
+    ]
+  },
+  "0364569": {
+    "original title": "Oldboy",
+    "cast": [
+      { "name": "Min-sik Choi" },
+      { "name": "Ji-Tae Yoo" },
+      { "name": "Hye-jeong Kang" },
+      { "name": "Dae-han Ji" },
+      { "name": "Dal-su Oh" }
+    ],
+    "genres": ["Action", "Drama", "Mystery", "Thriller"],
+    "runtimes": 120,
+    "rating": 8.4,
+    "title": "Oldboy",
+    "year": 2003,
+    "director": [{ "name": "Chan-wook Park" }],
+    "production companies": [
+      { "name": "CJ Entertainment" },
+      { "name": "Egg Films" },
+      { "name": "CJ E&M Film Financing & Investment Entertainment & Comics" },
+      { "name": "TMS Comics" },
+      { "name": "Moho Film" }
+    ]
+  },
+  "0051201": {
+    "original title": "\u015awiadek oskar\u017cenia",
+    "cast": [
+      { "name": "Tyrone Power" },
+      { "name": "Marlene Dietrich" },
+      { "name": "Charles Laughton" },
+      { "name": "Elsa Lanchester" },
+      { "name": "John Williams" }
+    ],
+    "genres": ["Crime", "Drama", "Film-Noir", "Mystery", "Thriller"],
+    "runtimes": 116,
+    "rating": 8.4,
+    "title": "Witness for the Prosecution",
+    "year": 1957,
+    "director": [{ "name": "Billy Wilder" }],
+    "production companies": [{ "name": "Edward Small Productions" }]
+  },
+  "1345836": {
+    "original title": "Mroczny Rycerz powstaje",
+    "cast": [
+      { "name": "Christian Bale" },
+      { "name": "Gary Oldman" },
+      { "name": "Tom Hardy" },
+      { "name": "Joseph Gordon-Levitt" },
+      { "name": "Anne Hathaway" }
+    ],
+    "genres": ["Action", "Thriller"],
+    "runtimes": 164,
+    "rating": 8.4,
+    "title": "The Dark Knight Rises",
+    "year": 2012,
+    "director": [{ "name": "Christopher Nolan" }],
+    "production companies": [
+      { "name": "Warner Bros." },
+      { "name": "Legendary Entertainment" },
+      { "name": "DC Entertainment" },
+      { "name": "Syncopy" },
+      { "name": "DC Comics" }
+    ]
+  },
+  "0087843": {
+    "original title": "Dawno temu w Ameryce",
+    "cast": [
+      { "name": "Robert De Niro" },
+      { "name": "James Woods" },
+      { "name": "Elizabeth McGovern" },
+      { "name": "Treat Williams" },
+      { "name": "Tuesday Weld" }
+    ],
+    "genres": ["Crime", "Drama"],
+    "runtimes": 229,
+    "rating": 8.4,
+    "title": "Once Upon a Time in America",
+    "year": 1984,
+    "director": [{ "name": "Sergio Leone" }],
+    "production companies": [
+      { "name": "The Ladd Company" },
+      { "name": "Warner Bros." },
+      { "name": "Producers Sales Organization (PSO)" },
+      { "name": "Embassy International Pictures" },
+      { "name": "Rafran Cinematografica" }
+    ]
+  },
+  "0090605": {
+    "original title": "Obcy - decyduj\u0105ce starcie",
+    "cast": [
+      { "name": "Sigourney Weaver" },
+      { "name": "Carrie Henn" },
+      { "name": "Michael Biehn" },
+      { "name": "Paul Reiser" },
+      { "name": "Lance Henriksen" }
+    ],
+    "genres": ["Action", "Adventure", "Sci-Fi", "Thriller"],
+    "runtimes": 137,
+    "rating": 8.3,
+    "title": "Aliens",
+    "year": 1986,
+    "director": [{ "name": "James Cameron" }],
+    "production companies": [
+      { "name": "Twentieth Century Fox" },
+      { "name": "Brandywine Productions" },
+      { "name": "SLM Production Group" }
+    ]
+  },
+  "5311514": {
+    "original title": "Twoje imie",
+    "cast": [
+      { "name": "Ry\u00fbnosuke Kamiki" },
+      { "name": "Mone Kamishiraishi" },
+      { "name": "Ry\u00f4 Narita" },
+      { "name": "Aoi Y\u00fbki" },
+      { "name": "Nobunaga Shimazaki" }
+    ],
+    "genres": ["Animation", "Drama", "Fantasy", "Romance"],
+    "runtimes": 106,
+    "rating": 8.4,
+    "title": "Your Name.",
+    "year": 2016,
+    "director": [{ "name": "Makoto Shinkai" }],
+    "production companies": [
+      { "name": "Amuse" },
+      { "name": "CoMix Wave Films" },
+      { "name": "East Japan Marketing & Communications Inc." },
+      { "name": "Kadokawa" },
+      { "name": "Lawson HMV Entertainment" }
+    ]
+  },
+  "0169547": {
+    "original title": "American Beauty",
+    "cast": [
+      { "name": "Kevin Spacey" },
+      { "name": "Annette Bening" },
+      { "name": "Thora Birch" },
+      { "name": "Wes Bentley" },
+      { "name": "Mena Suvari" }
+    ],
+    "genres": ["Drama"],
+    "runtimes": 122,
+    "rating": 8.3,
+    "title": "American Beauty",
+    "year": 1999,
+    "director": [{ "name": "Sam Mendes" }],
+    "production companies": [
+      { "name": "DreamWorks" },
+      { "name": "Jinks/Cohen Company" }
+    ]
+  },
+  "2380307": {
+    "original title": "Coco",
+    "cast": [
+      { "name": "Anthony Gonzalez" },
+      { "name": "Gael Garc\u00eda Bernal" },
+      { "name": "Benjamin Bratt" },
+      { "name": "Alanna Ubach" },
+      { "name": "Renee Victor" }
+    ],
+    "genres": ["Animation", "Adventure", "Family", "Fantasy", "Music"],
+    "runtimes": 105,
+    "rating": 8.4,
+    "title": "Coco",
+    "year": 2017,
+    "director": [{ "name": "Lee Unkrich" }, { "name": "Adrian Molina" }],
+    "production companies": [
+      { "name": "Walt Disney Pictures" },
+      { "name": "Pixar Animation Studios" }
+    ]
+  },
+  "0112573": {
+    "original title": "Braveheart - Waleczne serce",
+    "cast": [
+      { "name": "James Robinson" },
+      { "name": "Sean Lawlor" },
+      { "name": "Sandy Nelson" },
+      { "name": "James Cosmo" },
+      { "name": "Sean McGinley" }
+    ],
+    "genres": ["Biography", "Drama", "History", "War"],
+    "runtimes": 178,
+    "rating": 8.3,
+    "title": "Braveheart",
+    "year": 1995,
+    "director": [{ "name": "Mel Gibson" }],
+    "production companies": [
+      { "name": "Icon Entertainment International" },
+      { "name": "The Ladd Company" },
+      { "name": "B.H. Finance C.V." },
+      { "name": "Icon Productions" }
+    ]
+  },
+  "0082096": {
+    "original title": "Okr\u0119t",
+    "cast": [
+      { "name": "J\u00fcrgen Prochnow" },
+      { "name": "Herbert Gr\u00f6nemeyer" },
+      { "name": "Klaus Wennemann" },
+      { "name": "Hubertus Bengsch" },
+      { "name": "Martin Semmelrogge" }
+    ],
+    "genres": ["Adventure", "Drama", "Thriller", "War"],
+    "runtimes": 149,
+    "rating": 8.3,
+    "title": "Das Boot",
+    "year": 1981,
+    "director": [{ "name": "Wolfgang Petersen" }],
+    "production companies": [
+      { "name": "Bavaria Film" },
+      { "name": "Twin Bros. Productions" },
+      { "name": "Radiant Film GmbH" },
+      { "name": "S\u00fcddeutscher Rundfunk" },
+      { "name": "Westdeutscher Rundfunk" }
+    ]
+  },
+  "1187043": {
+    "original title": "Trzej idioci",
+    "cast": [
+      { "name": "Aamir Khan" },
+      { "name": "Madhavan" },
+      { "name": "Sharman Joshi" },
+      { "name": "Kareena Kapoor" },
+      { "name": "Boman Irani" }
+    ],
+    "genres": ["Comedy", "Drama"],
+    "runtimes": 170,
+    "rating": 8.4,
+    "title": "3 Idiots",
+    "year": 2009,
+    "director": [{ "name": "Rajkumar Hirani" }],
+    "production companies": [{ "name": "Vinod Chopra Productions" }]
+  },
+  "0086190": {
+    "original title": "Star Wars: Episode VI - Return of the Jedi",
+    "cast": [
+      { "name": "Mark Hamill" },
+      { "name": "Harrison Ford" },
+      { "name": "Carrie Fisher" },
+      { "name": "Billy Dee Williams" },
+      { "name": "Anthony Daniels" }
+    ],
+    "genres": ["Action", "Adventure", "Fantasy", "Sci-Fi"],
+    "runtimes": 131,
+    "rating": 8.3,
+    "title": "Star Wars: Episode VI - Return of the Jedi",
+    "year": 1983,
+    "director": [{ "name": "Richard Marquand" }],
+    "production companies": [{ "name": "Lucasfilm" }]
+  },
+  "0986264": {
+    "original title": "Gwiazdy na ziemi",
+    "cast": [
+      { "name": "Darsheel Safary" },
+      { "name": "Aamir Khan" },
+      { "name": "Tisca Chopra" },
+      { "name": "Vipin Sharma" },
+      { "name": "Sachet Engineer" }
+    ],
+    "genres": ["Drama", "Family"],
+    "runtimes": 165,
+    "rating": 8.4,
+    "title": "Taare Zameen Par",
+    "year": 2007,
+    "director": [{ "name": "Aamir Khan" }, { "name": "Amole Gupte" }],
+    "production companies": [
+      { "name": "Aamir Khan Productions" },
+      { "name": "PVR Pictures" }
+    ]
+  },
+  "0114709": {
+    "original title": "Toy Story",
+    "cast": [
+      { "name": "Tom Hanks" },
+      { "name": "Tim Allen" },
+      { "name": "Don Rickles" },
+      { "name": "Jim Varney" },
+      { "name": "Wallace Shawn" }
+    ],
+    "genres": ["Animation", "Adventure", "Comedy", "Family", "Fantasy"],
+    "runtimes": 81,
+    "rating": 8.3,
+    "title": "Toy Story",
+    "year": 1995,
+    "director": [{ "name": "John Lasseter" }],
+    "production companies": [
+      { "name": "Pixar Animation Studios" },
+      { "name": "Walt Disney Pictures" },
+      { "name": "Walt Disney Feature Animation" }
+    ]
+  },
+  "0086879": {
+    "original title": "Amadeusz",
+    "cast": [
+      { "name": "F. Murray Abraham" },
+      { "name": "Tom Hulce" },
+      { "name": "Elizabeth Berridge" },
+      { "name": "Roy Dotrice" },
+      { "name": "Simon Callow" }
+    ],
+    "genres": ["Biography", "Drama", "History", "Music"],
+    "runtimes": 160,
+    "rating": 8.3,
+    "title": "Amadeus",
+    "year": 1984,
+    "director": [{ "name": "Milos Forman" }],
+    "production companies": [
+      { "name": "AMLF" },
+      { "name": "The Saul Zaentz Company" }
+    ]
+  },
+  "0105236": {
+    "original title": "W\u015bciek\u0142e psy",
+    "cast": [
+      { "name": "Harvey Keitel" },
+      { "name": "Tim Roth" },
+      { "name": "Michael Madsen" },
+      { "name": "Chris Penn" },
+      { "name": "Steve Buscemi" }
+    ],
+    "genres": ["Crime", "Drama", "Thriller"],
+    "runtimes": 99,
+    "rating": 8.3,
+    "title": "Reservoir Dogs",
+    "year": 1992,
+    "director": [{ "name": "Quentin Tarantino" }],
+    "production companies": [
+      { "name": "Live Entertainment" },
+      { "name": "Dog Eat Dog Productions Inc." }
+    ]
+  },
+  "0361748": {
+    "original title": "B\u0119karty wojny",
+    "cast": [
+      { "name": "Brad Pitt" },
+      { "name": "M\u00e9lanie Laurent" },
+      { "name": "Christoph Waltz" },
+      { "name": "Eli Roth" },
+      { "name": "Michael Fassbender" }
+    ],
+    "genres": ["Adventure", "Drama", "War"],
+    "runtimes": 153,
+    "rating": 8.3,
+    "title": "Inglourious Basterds",
+    "year": 2009,
+    "director": [{ "name": "Quentin Tarantino" }],
+    "production companies": [
+      { "name": "Universal Pictures" },
+      { "name": "The Weinstein Company" },
+      { "name": "A Band Apart" },
+      { "name": "Studio Babelsberg" },
+      { "name": "Visiona Romantica" }
+    ]
+  },
+  "0119217": {
+    "original title": "Buntownik z wyboru",
+    "cast": [
+      { "name": "Matt Damon" },
+      { "name": "Ben Affleck" },
+      { "name": "Stellan Skarsg\u00e5rd" },
+      { "name": "John Mighton" },
+      { "name": "Rachel Majorowski" }
+    ],
+    "genres": ["Drama", "Romance"],
+    "runtimes": 126,
+    "rating": 8.3,
+    "title": "Good Will Hunting",
+    "year": 1997,
+    "director": [{ "name": "Gus Van Sant" }],
+    "production companies": [
+      { "name": "Be Gentlemen Limited Partnership" },
+      { "name": "Lawrence Bender Productions" },
+      { "name": "Miramax" }
+    ]
+  },
+  "0062622": {
+    "original title": "2001: Odyseja kosmiczna",
+    "cast": [
+      { "name": "Keir Dullea" },
+      { "name": "Gary Lockwood" },
+      { "name": "William Sylvester" },
+      { "name": "Daniel Richter" },
+      { "name": "Leonard Rossiter" }
+    ],
+    "genres": ["Adventure", "Sci-Fi"],
+    "runtimes": 149,
+    "rating": 8.3,
+    "title": "2001: A Space Odyssey",
+    "year": 1968,
+    "director": [{ "name": "Stanley Kubrick" }],
+    "production companies": [
+      { "name": "Metro-Goldwyn-Mayer (MGM)" },
+      { "name": "Stanley Kubrick Productions" }
+    ]
+  },
+  "0022100": {
+    "original title": "M - morderca",
+    "cast": [
+      { "name": "Peter Lorre" },
+      { "name": "Ellen Widmann" },
+      { "name": "Inge Landgut" },
+      { "name": "Otto Wernicke" },
+      { "name": "Theodor Loos" }
+    ],
+    "genres": ["Crime", "Mystery", "Thriller"],
+    "runtimes": 117,
+    "rating": 8.3,
+    "title": "M",
+    "year": 1931,
+    "director": [{ "name": "Fritz Lang" }],
+    "production companies": [{ "name": "Nero-Film AG" }]
+  },
+  "0180093": {
+    "original title": "Requiem dla snu",
+    "cast": [
+      { "name": "Ellen Burstyn" },
+      { "name": "Jared Leto" },
+      { "name": "Jennifer Connelly" },
+      { "name": "Marlon Wayans" },
+      { "name": "Christopher McDonald" }
+    ],
+    "genres": ["Drama"],
+    "runtimes": 102,
+    "rating": 8.3,
+    "title": "Requiem for a Dream",
+    "year": 2000,
+    "director": [{ "name": "Darren Aronofsky" }],
+    "production companies": [
+      { "name": "Artisan Entertainment" },
+      { "name": "Thousand Words" },
+      { "name": "Sibling Productions" },
+      { "name": "Protozoa Pictures" },
+      { "name": "Industry Entertainment" }
+    ]
+  },
+  "0052357": {
+    "original title": "Zawr\u00f3t glowy",
+    "cast": [
+      { "name": "James Stewart" },
+      { "name": "Kim Novak" },
+      { "name": "Barbara Bel Geddes" },
+      { "name": "Tom Helmore" },
+      { "name": "Henry Jones" }
+    ],
+    "genres": ["Mystery", "Romance", "Thriller"],
+    "runtimes": 128,
+    "rating": 8.3,
+    "title": "Vertigo",
+    "year": 1958,
+    "director": [{ "name": "Alfred Hitchcock" }],
+    "production companies": [{ "name": "Alfred J. Hitchcock Productions" }]
+  },
+  "5074352": {
+    "original title": "Dangal",
+    "cast": [
+      { "name": "Aamir Khan" },
+      { "name": "Fatima Sana Shaikh" },
+      { "name": "Sanya Malhotra" },
+      { "name": "Sakshi Tanwar" },
+      { "name": "Aparshakti Khurana" }
+    ],
+    "genres": ["Action", "Biography", "Drama", "Sport"],
+    "runtimes": 161,
+    "rating": 8.4,
+    "title": "Dangal",
+    "year": 2016,
+    "director": [{ "name": "Nitesh Tiwari" }],
+    "production companies": [
+      { "name": "Aamir Khan Productions" },
+      { "name": "UTV Motion Pictures" },
+      { "name": "Walt Disney Pictures" }
+    ]
+  },
+  "0338013": {
+    "original title": "Zakochany bez pami\u0119ci",
+    "cast": [
+      { "name": "Jim Carrey" },
+      { "name": "Kate Winslet" },
+      { "name": "Gerry Robert Byrne" },
+      { "name": "Elijah Wood" },
+      { "name": "Thomas Jay Ryan" }
+    ],
+    "genres": ["Drama", "Romance", "Sci-Fi"],
+    "runtimes": 108,
+    "rating": 8.3,
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "year": 2004,
+    "director": [{ "name": "Michel Gondry" }],
+    "production companies": [
+      { "name": "Focus Features" },
+      { "name": "Anonymous Content" },
+      { "name": "This Is That Productions" }
+    ]
+  },
+  "0033467": {
+    "original title": "Obywatel Kane",
+    "cast": [
+      { "name": "Joseph Cotten" },
+      { "name": "Dorothy Comingore" },
+      { "name": "Agnes Moorehead" },
+      { "name": "Ruth Warrick" },
+      { "name": "Ray Collins" }
+    ],
+    "genres": ["Drama", "Mystery"],
+    "runtimes": 119,
+    "rating": 8.3,
+    "title": "Citizen Kane",
+    "year": 1941,
+    "director": [{ "name": "Orson Welles" }],
+    "production companies": [
+      { "name": "RKO Radio Pictures" },
+      { "name": "Mercury Productions" }
+    ]
+  },
+  "2106476": {
+    "original title": "Polowanie",
+    "cast": [
+      { "name": "Mads Mikkelsen" },
+      { "name": "Thomas Bo Larsen" },
+      { "name": "Annika Wedderkopp" },
+      { "name": "Lasse Fogelstr\u00f8m" },
+      { "name": "Susse Wold" }
+    ],
+    "genres": ["Drama"],
+    "runtimes": 115,
+    "rating": 8.3,
+    "title": "The Hunt",
+    "year": 2012,
+    "director": [{ "name": "Thomas Vinterberg" }],
+    "production companies": [
+      { "name": "Danmarks Radio (DR)" },
+      { "name": "Det Danske Filminstitut" },
+      { "name": "Eurimages" },
+      { "name": "Film i V\u00e4st" },
+      { "name": "MEDIA Programme of the European Union" }
+    ]
+  },
+  "0093058": {
+    "original title": "Full Metal Jacket",
+    "cast": [
+      { "name": "Matthew Modine" },
+      { "name": "Adam Baldwin" },
+      { "name": "Vincent D'Onofrio" },
+      { "name": "R. Lee Ermey" },
+      { "name": "Dorian Harewood" }
+    ],
+    "genres": ["Drama", "War"],
+    "runtimes": 116,
+    "rating": 8.3,
+    "title": "Full Metal Jacket",
+    "year": 1987,
+    "director": [{ "name": "Stanley Kubrick" }],
+    "production companies": [
+      { "name": "Natant" },
+      { "name": "Stanley Kubrick Productions" },
+      { "name": "Warner Bros." }
+    ]
+  },
+  "0053125": {
+    "original title": "P\u00f3\u0142noc - p\u00f3\u0142nocny zach\u00f3d",
+    "cast": [
+      { "name": "Cary Grant" },
+      { "name": "Eva Marie Saint" },
+      { "name": "James Mason" },
+      { "name": "Jessie Royce Landis" },
+      { "name": "Leo G. Carroll" }
+    ],
+    "genres": ["Adventure", "Mystery", "Thriller"],
+    "runtimes": 136,
+    "rating": 8.3,
+    "title": "North by Northwest",
+    "year": 1959,
+    "director": [{ "name": "Alfred Hitchcock" }],
+    "production companies": [{ "name": "Metro-Goldwyn-Mayer (MGM)" }]
+  },
+  "0066921": {
+    "original title": "Mechaniczna pomara\u0144cza",
+    "cast": [
+      { "name": "Malcolm McDowell" },
+      { "name": "Patrick Magee" },
+      { "name": "Michael Bates" },
+      { "name": "Warren Clarke" },
+      { "name": "John Clive" }
+    ],
+    "genres": ["Crime", "Drama", "Sci-Fi"],
+    "runtimes": 136,
+    "rating": 8.3,
+    "title": "A Clockwork Orange",
+    "year": 1971,
+    "director": [{ "name": "Stanley Kubrick" }],
+    "production companies": [
+      { "name": "Warner Bros." },
+      { "name": "Polaris Productions" },
+      { "name": "Hawk Films" },
+      { "name": "Max L. Raab Productions" },
+      { "name": "Si Litvinoff Film Production" }
+    ]
+  },
+  "0208092": {
+    "original title": "Przekr\u0119t",
+    "cast": [
+      { "name": "Benicio Del Toro" },
+      { "name": "Dennis Farina" },
+      { "name": "Vinnie Jones" },
+      { "name": "Brad Pitt" },
+      { "name": "Rade Serbedzija" }
+    ],
+    "genres": ["Comedy", "Crime"],
+    "runtimes": 104,
+    "rating": 8.3,
+    "title": "Snatch",
+    "year": 2000,
+    "director": [{ "name": "Guy Ritchie" }],
+    "production companies": [
+      { "name": "Columbia Pictures" },
+      { "name": "SKA Films" }
+    ]
+  },
+  "0012349": {
+    "original title": "Brzd\u0105c",
+    "cast": [
+      { "name": "Carl Miller" },
+      { "name": "Edna Purviance" },
+      { "name": "Jackie Coogan" },
+      { "name": "Charles Chaplin" },
+      { "name": "Albert Austin" }
+    ],
+    "genres": ["Comedy", "Drama", "Family"],
+    "runtimes": 68,
+    "rating": 8.3,
+    "title": "The Kid",
+    "year": 1921,
+    "director": [{ "name": "Charles Chaplin" }],
+    "production companies": [{ "name": "Charles Chaplin Productions" }]
+  },
+  "0040522": {
+    "original title": "Z\u0142odzieje rower\u00f3w",
+    "cast": [
+      { "name": "Lamberto Maggiorani" },
+      { "name": "Enzo Staiola" },
+      { "name": "Lianella Carell" },
+      { "name": "Elena Altieri" },
+      { "name": "Gino Saltamerenda" }
+    ],
+    "genres": ["Drama"],
+    "runtimes": 89,
+    "rating": 8.3,
+    "title": "Bicycle Thieves",
+    "year": 1948,
+    "director": [{ "name": "Vittorio De Sica" }],
+    "production companies": [
+      { "name": "Produzioni De Sica" },
+      { "name": "Produzioni De Sica" }
+    ]
+  },
+  "0211915": {
+    "original title": "Amelia",
+    "cast": [
+      { "name": "Audrey Tautou" },
+      { "name": "Mathieu Kassovitz" },
+      { "name": "Rufus" },
+      { "name": "Lorella Cravotta" },
+      { "name": "Serge Merlin" }
+    ],
+    "genres": ["Comedy", "Romance"],
+    "runtimes": 122,
+    "rating": 8.3,
+    "title": "Am\u00e9lie",
+    "year": 2001,
+    "director": [{ "name": "Jean-Pierre Jeunet" }],
+    "production companies": [
+      { "name": "Claudie Ossard Productions" },
+      { "name": "Union G\u00e9n\u00e9rale Cin\u00e9matographique (UGC)" },
+      { "name": "Victoires Productions" },
+      { "name": "Tapioca Films" },
+      { "name": "France 3 Cin\u00e9ma" }
+    ]
+  },
+  "0086250": {
+    "original title": "Cz\u0142owiek z blizn\u0105",
+    "cast": [
+      { "name": "Al Pacino" },
+      { "name": "Steven Bauer" },
+      { "name": "Michelle Pfeiffer" },
+      { "name": "Mary Elizabeth Mastrantonio" },
+      { "name": "Robert Loggia" }
+    ],
+    "genres": ["Crime", "Drama"],
+    "runtimes": 170,
+    "rating": 8.3,
+    "title": "Scarface",
+    "year": 1983,
+    "director": [{ "name": "Brian De Palma" }],
+    "production companies": [{ "name": "Universal Pictures" }]
+  },
+  "0045152": {
+    "original title": "Deszczowa piosenka",
+    "cast": [
+      { "name": "Gene Kelly" },
+      { "name": "Donald O'Connor" },
+      { "name": "Debbie Reynolds" },
+      { "name": "Jean Hagen" },
+      { "name": "Millard Mitchell" }
+    ],
+    "genres": ["Comedy", "Musical", "Romance"],
+    "runtimes": 103,
+    "rating": 8.3,
+    "title": "Singin' in the Rain",
+    "year": 1952,
+    "director": [{ "name": "Stanley Donen" }, { "name": "Gene Kelly" }],
+    "production companies": [{ "name": "Metro-Goldwyn-Mayer (MGM)" }]
+  },
+  "0075314": {
+    "original title": "Taks\u00f3wkarz",
+    "cast": [
+      { "name": "Diahnne Abbott" },
+      { "name": "Robinson Frank Adu" },
+      { "name": "Victor Argo" },
+      { "name": "Gino Ardito" },
+      { "name": "Garth Avery" }
+    ],
+    "genres": ["Crime", "Drama"],
+    "runtimes": 114,
+    "rating": 8.3,
+    "title": "Taxi Driver",
+    "year": 1976,
+    "director": [{ "name": "Martin Scorsese" }],
+    "production companies": [
+      { "name": "Columbia Pictures" },
+      { "name": "Columbia Pictures" },
+      { "name": "Bill/Phillips" },
+      { "name": "Italo/Judeo Productions" }
+    ]
+  },
+  "0056172": {
+    "original title": "Lawrence z Arabii",
+    "cast": [
+      { "name": "Peter O'Toole" },
+      { "name": "Alec Guinness" },
+      { "name": "Anthony Quinn" },
+      { "name": "Jack Hawkins" },
+      { "name": "Omar Sharif" }
+    ],
+    "genres": ["Adventure", "Biography", "Drama", "History", "War"],
+    "runtimes": 228,
+    "rating": 8.3,
+    "title": "Lawrence of Arabia",
+    "year": 1962,
+    "director": [{ "name": "David Lean" }],
+    "production companies": [{ "name": "Horizon Pictures" }]
+  },
+  "0435761": {
+    "original title": "Toy Story 3",
+    "cast": [
+      { "name": "Tom Hanks" },
+      { "name": "Tim Allen" },
+      { "name": "Joan Cusack" },
+      { "name": "Ned Beatty" },
+      { "name": "Don Rickles" }
+    ],
+    "genres": ["Animation", "Adventure", "Comedy", "Family", "Fantasy"],
+    "runtimes": 103,
+    "rating": 8.3,
+    "title": "Toy Story 3",
+    "year": 2010,
+    "director": [{ "name": "Lee Unkrich" }],
+    "production companies": [
+      { "name": "Walt Disney Pictures" },
+      { "name": "Pixar Animation Studios" }
+    ]
+  },
+  "0070735": {
+    "original title": "\u017b\u0105d\u0142o",
+    "cast": [
+      { "name": "Paul Newman" },
+      { "name": "Robert Redford" },
+      { "name": "Robert Shaw" },
+      { "name": "Charles Durning" },
+      { "name": "Ray Walston" }
+    ],
+    "genres": ["Comedy", "Crime", "Drama"],
+    "runtimes": 129,
+    "rating": 8.3,
+    "title": "The Sting",
+    "year": 1973,
+    "director": [{ "name": "George Roy Hill" }],
+    "production companies": [
+      { "name": "Zanuck/Brown Productions" },
+      { "name": "Universal Pictures" }
+    ]
+  },
+  "0017136": {
+    "original title": "Metropolis",
+    "cast": [
+      { "name": "Alfred Abel" },
+      { "name": "Gustav Fr\u00f6hlich" },
+      { "name": "Rudolf Klein-Rogge" },
+      { "name": "Fritz Rasp" },
+      { "name": "Theodor Loos" }
+    ],
+    "genres": ["Drama", "Sci-Fi"],
+    "runtimes": 153,
+    "rating": 8.3,
+    "title": "Metropolis",
+    "year": 1927,
+    "director": [{ "name": "Fritz Lang" }],
+    "production companies": [{ "name": "Universum Film" }]
+  },
+  "0059578": {
+    "original title": "Za kilka dolar\u00f3w wi\u0119cej",
+    "cast": [
+      { "name": "Clint Eastwood" },
+      { "name": "Lee Van Cleef" },
+      { "name": "Gian Maria Volont\u00e8" },
+      { "name": "Mario Brega" },
+      { "name": "Luigi Pistilli" }
+    ],
+    "genres": ["Western"],
+    "runtimes": 132,
+    "rating": 8.3,
+    "title": "For a Few Dollars More",
+    "year": 1965,
+    "director": [{ "name": "Sergio Leone" }],
+    "production companies": [
+      { "name": "Produzioni Europee Associate (PEA)" },
+      { "name": "Arturo Gonz\u00e1lez Producciones Cinematogr\u00e1ficas" },
+      { "name": "Constantin Film" }
+    ]
+  },
+  "8267604": {
+    "original title": "Kafarnaum",
+    "cast": [
+      { "name": "Zain Al Rafeea" },
+      { "name": "Yordanos Shiferaw" },
+      { "name": "Boluwatife Treasure Bankole" },
+      { "name": "Kawsar Al Haddad" },
+      { "name": "Fadi Yousef" }
+    ],
+    "genres": ["Drama"],
+    "runtimes": 126,
+    "rating": 8.4,
+    "title": "Capernaum",
+    "year": 2018,
+    "director": [{ "name": "Nadine Labaki" }],
+    "production companies": [
+      { "name": "Mooz Films" },
+      { "name": "Cedrus Invest Bank" },
+      { "name": "Sunnyland Film" },
+      { "name": "Doha Film Institute" },
+      { "name": "KNM Films" }
+    ]
+  },
+  "1832382": {
+    "original title": "Rozstanie",
+    "cast": [
+      { "name": "Payman Maadi" },
+      { "name": "Leila Hatami" },
+      { "name": "Sareh Bayat" },
+      { "name": "Shahab Hosseini" },
+      { "name": "Sarina Farhadi" }
+    ],
+    "genres": ["Drama"],
+    "runtimes": 123,
+    "rating": 8.3,
+    "title": "A Separation",
+    "year": 2011,
+    "director": [{ "name": "Asghar Farhadi" }],
+    "production companies": [
+      { "name": "Asghar Farhadi Productions" },
+      { "name": "Dreamlab Films" },
+      { "name": "MPA APSA Academy Film Fund" },
+      { "name": "Memento Films" }
+    ]
+  },
+  "0036775": {
+    "original title": "Podw\u00f3jne ubezpieczenie",
+    "cast": [
+      { "name": "Fred MacMurray" },
+      { "name": "Barbara Stanwyck" },
+      { "name": "Edward G. Robinson" },
+      { "name": "Porter Hall" },
+      { "name": "Jean Heather" }
+    ],
+    "genres": ["Crime", "Drama", "Film-Noir", "Mystery", "Thriller"],
+    "runtimes": 107,
+    "rating": 8.3,
+    "title": "Double Indemnity",
+    "year": 1944,
+    "director": [{ "name": "Billy Wilder" }],
+    "production companies": [{ "name": "Paramount Pictures" }]
+  },
+  "0044741": {
+    "original title": "Pi\u0119tno \u015bmierci",
+    "cast": [
+      { "name": "Takashi Shimura" },
+      { "name": "Shin'ichi Himori" },
+      { "name": "Haruo Tanaka" },
+      { "name": "Minoru Chiaki" },
+      { "name": "Miki Odagiri" }
+    ],
+    "genres": ["Drama"],
+    "runtimes": 143,
+    "rating": 8.3,
+    "title": "Ikiru",
+    "year": 1952,
+    "director": [{ "name": "Akira Kurosawa" }],
+    "production companies": [{ "name": "Toho Company" }]
+  },
+  "0056592": {
+    "original title": "Zabi\u0107 drozda",
+    "cast": [
+      { "name": "Gregory Peck" },
+      { "name": "John Megna" },
+      { "name": "Frank Overton" },
+      { "name": "Rosemary Murphy" },
+      { "name": "Ruth White" }
+    ],
+    "genres": ["Crime", "Drama"],
+    "runtimes": 129,
+    "rating": 8.3,
+    "title": "To Kill a Mockingbird",
+    "year": 1962,
+    "director": [{ "name": "Robert Mulligan" }],
+    "production companies": [
+      { "name": "Pakula-Mulligan" },
+      { "name": "Brentwood Productions" }
+    ]
+  },
+  "0053604": {
+    "original title": "Garsoniera",
+    "cast": [
+      { "name": "Jack Lemmon" },
+      { "name": "Shirley MacLaine" },
+      { "name": "Fred MacMurray" },
+      { "name": "Ray Walston" },
+      { "name": "Jack Kruschen" }
+    ],
+    "genres": ["Comedy", "Drama", "Romance"],
+    "runtimes": 125,
+    "rating": 8.3,
+    "title": "The Apartment",
+    "year": 1960,
+    "director": [{ "name": "Billy Wilder" }],
+    "production companies": [{ "name": "The Mirisch Corporation" }]
+  },
+  "0097576": {
+    "original title": "Indiana Jones i ostatnia krucjata",
+    "cast": [
+      { "name": "Harrison Ford" },
+      { "name": "Sean Connery" },
+      { "name": "Denholm Elliott" },
+      { "name": "Alison Doody" },
+      { "name": "John Rhys-Davies" }
+    ],
+    "genres": ["Action", "Adventure"],
+    "runtimes": 127,
+    "rating": 8.2,
+    "title": "Indiana Jones and the Last Crusade",
+    "year": 1989,
+    "director": [{ "name": "Steven Spielberg" }],
+    "production companies": [
+      { "name": "Paramount Pictures" },
+      { "name": "Lucasfilm" }
+    ]
+  },
+  "1049413": {
+    "original title": "Odlot",
+    "cast": [
+      { "name": "Edward Asner" },
+      { "name": "Christopher Plummer" },
+      { "name": "Jordan Nagai" },
+      { "name": "Bob Peterson" },
+      { "name": "Delroy Lindo" }
+    ],
+    "genres": ["Animation", "Adventure", "Comedy", "Family"],
+    "runtimes": 96,
+    "rating": 8.2,
+    "title": "Up",
+    "year": 2009,
+    "director": [{ "name": "Pete Docter" }, { "name": "Bob Peterson" }],
+    "production companies": [
+      { "name": "Pixar Animation Studios" },
+      { "name": "Walt Disney Pictures" }
+    ]
+  },
+  "1255953": {
+    "original title": "Pogorzelisko",
+    "cast": [
+      { "name": "Mustafa Kamel" },
+      { "name": "Hussein Sami" },
+      { "name": "R\u00e9my Girard" },
+      { "name": "M\u00e9lissa D\u00e9sormeaux-Poulin" },
+      { "name": "Maxim Gaudette" }
+    ],
+    "genres": ["Drama", "Mystery", "War"],
+    "runtimes": 131,
+    "rating": 8.3,
+    "title": "Incendies",
+    "year": 2010,
+    "director": [{ "name": "Denis Villeneuve" }],
+    "production companies": [
+      { "name": "micro_scope" },
+      { "name": "TS Productions" },
+      { "name": "Phi Group" }
+    ]
+  },
+  "0119488": {
+    "original title": "Tajemnice Los Angeles",
+    "cast": [
+      { "name": "Kevin Spacey" },
+      { "name": "Russell Crowe" },
+      { "name": "Guy Pearce" },
+      { "name": "James Cromwell" },
+      { "name": "Kim Basinger" }
+    ],
+    "genres": ["Crime", "Drama", "Mystery", "Thriller"],
+    "runtimes": 138,
+    "rating": 8.2,
+    "title": "L.A. Confidential",
+    "year": 1997,
+    "director": [{ "name": "Curtis Hanson" }],
+    "production companies": [
+      { "name": "Regency Enterprises" },
+      { "name": "The Wolper Organization" },
+      { "name": "Warner Bros." }
+    ]
+  },
+  "0071853": {
+    "original title": "Monty Python i \u015awi\u0119ty Graal",
+    "cast": [
+      { "name": "Graham Chapman" },
+      { "name": "John Cleese" },
+      { "name": "Eric Idle" },
+      { "name": "Terry Gilliam" },
+      { "name": "Terry Jones" }
+    ],
+    "genres": ["Adventure", "Comedy", "Fantasy"],
+    "runtimes": 91,
+    "rating": 8.2,
+    "title": "Monty Python and the Holy Grail",
+    "year": 1975,
+    "director": [{ "name": "Terry Gilliam" }, { "name": "Terry Jones" }],
+    "production companies": [
+      { "name": "Python (Monty) Pictures" },
+      { "name": "Michael White Productions" },
+      { "name": "National Film Trustee Company" }
+    ]
+  },
+  "0113277": {
+    "original title": "Gor\u0105czka",
+    "cast": [
+      { "name": "Al Pacino" },
+      { "name": "Robert De Niro" },
+      { "name": "Val Kilmer" },
+      { "name": "Jon Voight" },
+      { "name": "Tom Sizemore" }
+    ],
+    "genres": ["Crime", "Drama", "Thriller"],
+    "runtimes": 170,
+    "rating": 8.2,
+    "title": "Heat",
+    "year": 1995,
+    "director": [{ "name": "Michael Mann" }],
+    "production companies": [
+      { "name": "Warner Bros." },
+      { "name": "Regency Enterprises" },
+      { "name": "Forward Pass" },
+      { "name": "Art Linson Productions" },
+      { "name": "Monarchy Enterprises B.V." }
+    ]
+  },
+  "0095016": {
+    "original title": "Szklana pu\u0142apka",
+    "cast": [
+      { "name": "Bruce Willis" },
+      { "name": "Bonnie Bedelia" },
+      { "name": "Reginald VelJohnson" },
+      { "name": "Paul Gleason" },
+      { "name": "William Atherton" }
+    ],
+    "genres": ["Action", "Thriller"],
+    "runtimes": 132,
+    "rating": 8.2,
+    "title": "Die Hard",
+    "year": 1988,
+    "director": [{ "name": "John McTiernan" }],
+    "production companies": [
+      { "name": "Twentieth Century Fox" },
+      { "name": "Gordon Company" },
+      { "name": "Silver Pictures" }
+    ]
+  },
+  "0042876": {
+    "original title": "Rashomon",
+    "cast": [
+      { "name": "Toshir\u00f4 Mifune" },
+      { "name": "Machiko Ky\u00f4" },
+      { "name": "Masayuki Mori" },
+      { "name": "Takashi Shimura" },
+      { "name": "Minoru Chiaki" }
+    ],
+    "genres": ["Crime", "Drama", "Mystery"],
+    "runtimes": 88,
+    "rating": 8.2,
+    "title": "Rashomon",
+    "year": 1950,
+    "director": [{ "name": "Akira Kurosawa" }],
+    "production companies": [{ "name": "Daiei Motion Picture Company" }]
+  },
+  "0372784": {
+    "original title": "Batman - Pocz\u0105tek",
+    "cast": [
+      { "name": "Christian Bale" },
+      { "name": "Michael Caine" },
+      { "name": "Liam Neeson" },
+      { "name": "Katie Holmes" },
+      { "name": "Gary Oldman" }
+    ],
+    "genres": ["Action", "Adventure"],
+    "runtimes": 140,
+    "rating": 8.2,
+    "title": "Batman Begins",
+    "year": 2005,
+    "director": [{ "name": "Christopher Nolan" }],
+    "production companies": [
+      { "name": "Warner Bros." },
+      { "name": "Syncopy" },
+      { "name": "DC Comics" },
+      { "name": "Legendary Entertainment" },
+      { "name": "Patalex III Productions Limited" }
+    ]
+  },
+  "0055630": {
+    "original title": "Stra\u017c przyboczna",
+    "cast": [
+      { "name": "Toshir\u00f4 Mifune" },
+      { "name": "Tatsuya Nakadai" },
+      { "name": "Y\u00f4ko Tsukasa" },
+      { "name": "Isuzu Yamada" },
+      { "name": "Daisuke Kat\u00f4" }
+    ],
+    "genres": ["Action", "Drama", "Thriller"],
+    "runtimes": 110,
+    "rating": 8.2,
+    "title": "Yojimbo",
+    "year": 1961,
+    "director": [{ "name": "Akira Kurosawa" }],
+    "production companies": [
+      { "name": "Kurosawa Production Co." },
+      { "name": "Toho Company" }
+    ]
+  },
+  "0105695": {
+    "original title": "Bez przebaczenia",
+    "cast": [
+      { "name": "Clint Eastwood" },
+      { "name": "Gene Hackman" },
+      { "name": "Morgan Freeman" },
+      { "name": "Richard Harris" },
+      { "name": "Jaimz Woolvett" }
+    ],
+    "genres": ["Drama", "Western"],
+    "runtimes": 130,
+    "rating": 8.2,
+    "title": "Unforgiven",
+    "year": 1992,
+    "director": [{ "name": "Clint Eastwood" }],
+    "production companies": [
+      { "name": "Warner Bros." },
+      { "name": "Malpaso Productions" }
+    ]
+  },
+  "6966692": {
+    "original title": "Green Book",
+    "cast": [
+      { "name": "Viggo Mortensen" },
+      { "name": "Mahershala Ali" },
+      { "name": "Linda Cardellini" },
+      { "name": "Sebastian Maniscalco" },
+      { "name": "Dimiter D. Marinov" }
+    ],
+    "genres": ["Biography", "Comedy", "Drama", "Music"],
+    "runtimes": 130,
+    "rating": 8.2,
+    "title": "Green Book",
+    "year": 2018,
+    "director": [{ "name": "Peter Farrelly" }],
+    "production companies": [
+      { "name": "Participant" },
+      { "name": "DreamWorks" },
+      { "name": "Innisfree Pictures" },
+      { "name": "Cinetic Media" },
+      { "name": "Amblin Partners" }
+    ]
+  },
+  "0363163": {
+    "original title": "Upadek",
+    "cast": [
+      { "name": "Bruno Ganz" },
+      { "name": "Alexandra Maria Lara" },
+      { "name": "Corinna Harfouch" },
+      { "name": "Ulrich Matthes" },
+      { "name": "Juliane K\u00f6hler" }
+    ],
+    "genres": ["Biography", "Drama", "History", "War"],
+    "runtimes": 156,
+    "rating": 8.2,
+    "title": "Downfall",
+    "year": 2004,
+    "director": [{ "name": "Oliver Hirschbiegel" }],
+    "production companies": [
+      { "name": "Constantin Film" },
+      { "name": "Norddeutscher Rundfunk (NDR)" },
+      { "name": "Westdeutscher Rundfunk (WDR)" },
+      { "name": "Degeto Film" },
+      { "name": "\u00d6sterreichischer Rundfunk (ORF)" }
+    ]
+  },
+  "0118849": {
+    "original title": "Dzieci niebios",
+    "cast": [
+      { "name": "Mohammad Amir Naji" },
+      { "name": "Amir Farrokh Hashemian" },
+      { "name": "Bahare Seddiqi" },
+      { "name": "Nafise Jafar-Mohammadi" },
+      { "name": "Fereshte Sarabandi" }
+    ],
+    "genres": ["Drama", "Family", "Sport"],
+    "runtimes": 89,
+    "rating": 8.3,
+    "title": "Children of Heaven",
+    "year": 1997,
+    "director": [{ "name": "Majid Majidi" }],
+    "production companies": [{ "name": "Kanun parvaresh fekri" }]
+  },
+  "1950186": {
+    "original title": "Le Mans '66",
+    "cast": [
+      { "name": "Matt Damon" },
+      { "name": "Christian Bale" },
+      { "name": "Jon Bernthal" },
+      { "name": "Caitriona Balfe" },
+      { "name": "Josh Lucas" }
+    ],
+    "genres": ["Action", "Biography", "Drama", "Sport"],
+    "runtimes": 152,
+    "rating": 8.3,
+    "title": "Ford v Ferrari",
+    "year": 2019,
+    "director": [{ "name": "James Mangold" }],
+    "production companies": [
+      { "name": "Chernin Entertainment" },
+      { "name": "Twentieth Century Fox" }
+    ]
+  },
+  "0053291": {
+    "original title": "P\u00f3\u0142 \u017cartem, p\u00f3\u0142 serio",
+    "cast": [
+      { "name": "Marilyn Monroe" },
+      { "name": "Tony Curtis" },
+      { "name": "Jack Lemmon" },
+      { "name": "George Raft" },
+      { "name": "Pat O'Brien" }
+    ],
+    "genres": ["Comedy", "Music", "Romance"],
+    "runtimes": 121,
+    "rating": 8.2,
+    "title": "Some Like It Hot",
+    "year": 1959,
+    "director": [{ "name": "Billy Wilder" }],
+    "production companies": [
+      { "name": "Ashton Productions" },
+      { "name": "The Mirisch Corporation" }
+    ]
+  },
+  "0347149": {
+    "original title": "Ruchomy zamek Hauru",
+    "cast": [
+      { "name": "Chieko Baish\u00f4" },
+      { "name": "Takuya Kimura" },
+      { "name": "Akihiro Miwa" },
+      { "name": "Tatsuya Gash\u00fbin" },
+      { "name": "Ry\u00fbnosuke Kamiki" }
+    ],
+    "genres": ["Animation", "Adventure", "Family", "Fantasy"],
+    "runtimes": 119,
+    "rating": 8.2,
+    "title": "Howl's Moving Castle",
+    "year": 2004,
+    "director": [{ "name": "Hayao Miyazaki" }],
+    "production companies": [
+      { "name": "Buena Vista Home Entertainment" },
+      { "name": "DENTSU Music And Entertainment" },
+      { "name": "Mitsubishi" },
+      { "name": "Nippon Television Network" },
+      { "name": "Studio Ghibli" }
+    ]
+  },
+  "0057115": {
+    "original title": "Wielka ucieczka",
+    "cast": [
+      { "name": "Steve McQueen" },
+      { "name": "James Garner" },
+      { "name": "Richard Attenborough" },
+      { "name": "James Donald" },
+      { "name": "Charles Bronson" }
+    ],
+    "genres": ["Adventure", "Drama", "History", "Thriller", "War"],
+    "runtimes": 172,
+    "rating": 8.2,
+    "title": "The Great Escape",
+    "year": 1963,
+    "director": [{ "name": "John Sturges" }],
+    "production companies": [
+      { "name": "The Mirisch Company" },
+      { "name": "Alpha" }
+    ]
+  },
+  "0096283": {
+    "original title": "M\u00f3j s\u0105siad Totoro",
+    "cast": [
+      { "name": "Noriko Hidaka" },
+      { "name": "Chika Sakamoto" },
+      { "name": "Shigesato Itoi" },
+      { "name": "Sumi Shimamoto" },
+      { "name": "Tanie Kitabayashi" }
+    ],
+    "genres": ["Animation", "Family", "Fantasy"],
+    "runtimes": 86,
+    "rating": 8.2,
+    "title": "My Neighbor Totoro",
+    "year": 1988,
+    "director": [{ "name": "Hayao Miyazaki" }],
+    "production companies": [
+      { "name": "Tokuma Japan Communications" },
+      { "name": "Studio Ghibli" },
+      { "name": "Nibariki" }
+    ]
+  },
+  "0089881": {
+    "original title": "Ran",
+    "cast": [
+      { "name": "Tatsuya Nakadai" },
+      { "name": "Akira Terao" },
+      { "name": "Jinpachi Nezu" },
+      { "name": "Daisuke Ry\u00fb" },
+      { "name": "Mieko Harada" }
+    ],
+    "genres": ["Action", "Drama"],
+    "runtimes": 162,
+    "rating": 8.2,
+    "title": "Ran",
+    "year": 1985,
+    "director": [{ "name": "Akira Kurosawa" }],
+    "production companies": [
+      { "name": "Greenwich Film Productions" },
+      { "name": "Herald Ace" },
+      { "name": "Nippon Herald Films" }
+    ]
+  },
+  "0268978": {
+    "original title": "Pi\u0119kny umys\u0142",
+    "cast": [
+      { "name": "Russell Crowe" },
+      { "name": "Ed Harris" },
+      { "name": "Jennifer Connelly" },
+      { "name": "Christopher Plummer" },
+      { "name": "Paul Bettany" }
+    ],
+    "genres": ["Biography", "Drama"],
+    "runtimes": 135,
+    "rating": 8.2,
+    "title": "A Beautiful Mind",
+    "year": 2001,
+    "director": [{ "name": "Ron Howard" }],
+    "production companies": [
+      { "name": "Universal Pictures" },
+      { "name": "DreamWorks" },
+      { "name": "Imagine Entertainment" }
+    ]
+  },
+  "0042192": {
+    "original title": "Wszystko o Ewie",
+    "cast": [
+      { "name": "Bette Davis" },
+      { "name": "Anne Baxter" },
+      { "name": "George Sanders" },
+      { "name": "Celeste Holm" },
+      { "name": "Gary Merrill" }
+    ],
+    "genres": ["Drama"],
+    "runtimes": 138,
+    "rating": 8.2,
+    "title": "All About Eve",
+    "year": 1950,
+    "director": [{ "name": "Joseph L. Mankiewicz" }],
+    "production companies": [{ "name": "Twentieth Century Fox" }]
+  },
+  "0112641": {
+    "original title": "Kasyno",
+    "cast": [
+      { "name": "Robert De Niro" },
+      { "name": "Sharon Stone" },
+      { "name": "Joe Pesci" },
+      { "name": "James Woods" },
+      { "name": "Don Rickles" }
+    ],
+    "genres": ["Crime", "Drama"],
+    "runtimes": 178,
+    "rating": 8.2,
+    "title": "Casino",
+    "year": 1995,
+    "director": [{ "name": "Martin Scorsese" }],
+    "production companies": [
+      { "name": "Universal Pictures" },
+      { "name": "Syalis DA" },
+      { "name": "L\u00e9gende Entreprises" },
+      { "name": "De Fina-Cappa" },
+      { "name": "GGG" }
+    ]
+  },
+  "0091251": {
+    "original title": "Id\u017a i patrz",
+    "cast": [
+      { "name": "Aleksey Kravchenko" },
+      { "name": "Olga Mironova" },
+      { "name": "Liubomiras Laucevicius" },
+      { "name": "Vladas Bagdonas" },
+      { "name": "J\u00fcri Lumiste" }
+    ],
+    "genres": ["Drama", "War"],
+    "runtimes": 142,
+    "rating": 8.3,
+    "title": "Come and See",
+    "year": 1985,
+    "director": [{ "name": "Elem Klimov" }],
+    "production companies": [{ "name": "Belarusfilm" }, { "name": "Mosfilm" }]
+  },
+  "0457430": {
+    "original title": "Labirynt fauna",
+    "cast": [
+      { "name": "Ivana Baquero" },
+      { "name": "Sergi L\u00f3pez" },
+      { "name": "Maribel Verd\u00fa" },
+      { "name": "Doug Jones" },
+      { "name": "Ariadna Gil" }
+    ],
+    "genres": ["Drama", "Fantasy", "War"],
+    "runtimes": 118,
+    "rating": 8.2,
+    "title": "Pan's Labyrinth",
+    "year": 2006,
+    "director": [{ "name": "Guillermo del Toro" }],
+    "production companies": [
+      { "name": "Estudios Picasso" },
+      { "name": "Wild Bunch" },
+      { "name": "Tequila Gang" },
+      { "name": "Esperanto Filmoj" },
+      { "name": "Sententia Entertainment" }
+    ]
+  },
+  "0081398": {
+    "original title": "W\u015bciek\u0142y byk",
+    "cast": [
+      { "name": "Robert De Niro" },
+      { "name": "Cathy Moriarty" },
+      { "name": "Joe Pesci" },
+      { "name": "Frank Vincent" },
+      { "name": "Nicholas Colasanto" }
+    ],
+    "genres": ["Biography", "Drama", "Sport"],
+    "runtimes": 129,
+    "rating": 8.2,
+    "title": "Raging Bull",
+    "year": 1980,
+    "director": [{ "name": "Martin Scorsese" }],
+    "production companies": [{ "name": "Chartoff-Winkler Productions" }]
+  },
+  "1305806": {
+    "original title": "Sekret jej oczu",
+    "cast": [
+      { "name": "Soledad Villamil" },
+      { "name": "Ricardo Dar\u00edn" },
+      { "name": "Carla Quevedo" },
+      { "name": "Pablo Rago" },
+      { "name": "Javier Godino" }
+    ],
+    "genres": ["Drama", "Mystery", "Romance", "Thriller"],
+    "runtimes": 129,
+    "rating": 8.2,
+    "title": "The Secret in Their Eyes",
+    "year": 2009,
+    "director": [{ "name": "Juan Jos\u00e9 Campanella" }],
+    "production companies": [
+      { "name": "Tornasol Films" },
+      { "name": "Haddock Films" },
+      { "name": "100 Bares" },
+      { "name": "Televisi\u00f3n Federal (Telefe)" },
+      { "name": "Televisi\u00f3n Espa\u00f1ola (TVE)" }
+    ]
+  },
+  "0120735": {
+    "original title": "Porachunki",
+    "cast": [
+      { "name": "Jason Flemyng" },
+      { "name": "Dexter Fletcher" },
+      { "name": "Nick Moran" },
+      { "name": "Jason Statham" },
+      { "name": "Steven Mackintosh" }
+    ],
+    "genres": ["Comedy", "Crime"],
+    "runtimes": 107,
+    "rating": 8.2,
+    "title": "Lock, Stock and Two Smoking Barrels",
+    "year": 1998,
+    "director": [{ "name": "Guy Ritchie" }],
+    "production companies": [
+      { "name": "Summit Entertainment" },
+      { "name": "The Steve Tisch Company" },
+      { "name": "SKA Films" },
+      { "name": "HandMade Films" },
+      { "name": "Polygram Filmed Entertainment" }
+    ]
+  },
+  "0993846": {
+    "original title": "Wilk z Wall Street",
+    "cast": [
+      { "name": "Leonardo DiCaprio" },
+      { "name": "Jonah Hill" },
+      { "name": "Margot Robbie" },
+      { "name": "Matthew McConaughey" },
+      { "name": "Kyle Chandler" }
+    ],
+    "genres": ["Biography", "Crime", "Drama"],
+    "runtimes": 180,
+    "rating": 8.2,
+    "title": "The Wolf of Wall Street",
+    "year": 2013,
+    "director": [{ "name": "Martin Scorsese" }],
+    "production companies": [
+      { "name": "Red Granite Pictures" },
+      { "name": "Appian Way" },
+      { "name": "Sikelia Productions" },
+      { "name": "EMJAG Productions" }
+    ]
+  },
+  "0040897": {
+    "original title": "Skarb Sierra Madre",
+    "cast": [
+      { "name": "Humphrey Bogart" },
+      { "name": "Walter Huston" },
+      { "name": "Tim Holt" },
+      { "name": "Bruce Bennett" },
+      { "name": "Barton MacLane" }
+    ],
+    "genres": ["Adventure", "Drama", "Western"],
+    "runtimes": 126,
+    "rating": 8.2,
+    "title": "The Treasure of the Sierra Madre",
+    "year": 1948,
+    "director": [{ "name": "John Huston" }],
+    "production companies": [{ "name": "Warner Bros." }]
+  },
+  "0055031": {
+    "original title": "Wyrok w Norymberdze",
+    "cast": [
+      { "name": "Spencer Tracy" },
+      { "name": "Burt Lancaster" },
+      { "name": "Richard Widmark" },
+      { "name": "Marlene Dietrich" },
+      { "name": "Maximilian Schell" }
+    ],
+    "genres": ["Drama", "War"],
+    "runtimes": 179,
+    "rating": 8.2,
+    "title": "Judgment at Nuremberg",
+    "year": 1961,
+    "director": [{ "name": "Stanley Kramer" }],
+    "production companies": [{ "name": "Roxlom Films Inc." }]
+  },
+  "5027774": {
+    "original title": "Trzy billboardy za Ebbing, Missouri",
+    "cast": [
+      { "name": "Frances McDormand" },
+      { "name": "Caleb Landry Jones" },
+      { "name": "Kerry Condon" },
+      { "name": "Sam Rockwell" },
+      { "name": "Alejandro Barrios" }
+    ],
+    "genres": ["Comedy", "Crime", "Drama"],
+    "runtimes": 115,
+    "rating": 8.2,
+    "title": "Three Billboards Outside Ebbing, Missouri",
+    "year": 2017,
+    "director": [{ "name": "Martin McDonagh" }],
+    "production companies": [
+      { "name": "Blueprint Pictures" },
+      { "name": "Film 4" },
+      { "name": "Fox Searchlight Pictures" }
+    ]
+  },
+  "0476735": {
+    "original title": "M\u00f3j ojciec i m\u00f3j syn",
+    "cast": [
+      { "name": "\u00c7etin Tekindor" },
+      { "name": "Fikret Kuskan" },
+      { "name": "H\u00fcmeyra" },
+      { "name": "Ege Tanman" },
+      { "name": "Serif Sezer" }
+    ],
+    "genres": ["Drama", "Family"],
+    "runtimes": 108,
+    "rating": 8.3,
+    "title": "My Father and My Son",
+    "year": 2005,
+    "director": [{ "name": "\u00c7agan Irmak" }],
+    "production companies": [{ "name": "Avsar Film" }]
+  },
+  "0071315": {
+    "original title": "Chinatown",
+    "cast": [
+      { "name": "Jack Nicholson" },
+      { "name": "Faye Dunaway" },
+      { "name": "John Huston" },
+      { "name": "Perry Lopez" },
+      { "name": "John Hillerman" }
+    ],
+    "genres": ["Drama", "Mystery", "Thriller"],
+    "runtimes": 130,
+    "rating": 8.2,
+    "title": "Chinatown",
+    "year": 1974,
+    "director": [{ "name": "Roman Polanski" }],
+    "production companies": [
+      { "name": "Paramount Pictures" },
+      { "name": "Penthouse Video" },
+      { "name": "Long Road Productions" },
+      { "name": "Robert Evans Company" }
+    ]
+  },
+  "0015864": {
+    "original title": "Gor\u0105czka z\u0142ota",
+    "cast": [
+      { "name": "Charles Chaplin" },
+      { "name": "Mack Swain" },
+      { "name": "Tom Murray" },
+      { "name": "Henry Bergman" },
+      { "name": "Malcolm Waite" }
+    ],
+    "genres": ["Adventure", "Comedy", "Drama", "Family"],
+    "runtimes": 95,
+    "rating": 8.2,
+    "title": "The Gold Rush",
+    "year": 1925,
+    "director": [{ "name": "Charles Chaplin" }],
+    "production companies": [{ "name": "Charles Chaplin Productions" }]
+  },
+  "0469494": {
+    "original title": "A\u017c poleje si\u0119 krew",
+    "cast": [
+      { "name": "Daniel Day-Lewis" },
+      { "name": "Martin Stringer" },
+      { "name": "Matthew Braden Stringer" },
+      { "name": "Jacob Stringer" },
+      { "name": "Joseph Mussey" }
+    ],
+    "genres": ["Drama"],
+    "runtimes": 158,
+    "rating": 8.2,
+    "title": "There Will Be Blood",
+    "year": 2007,
+    "director": [{ "name": "Paul Thomas Anderson" }],
+    "production companies": [
+      { "name": "Paramount Vantage" },
+      { "name": "Miramax" },
+      { "name": "Ghoulardi Film Company" }
+    ]
+  },
+  "0046912": {
+    "original title": "M jak morderstwo",
+    "cast": [
+      { "name": "Ray Milland" },
+      { "name": "Grace Kelly" },
+      { "name": "Robert Cummings" },
+      { "name": "John Williams" },
+      { "name": "Anthony Dawson" }
+    ],
+    "genres": ["Crime", "Thriller"],
+    "runtimes": 105,
+    "rating": 8.2,
+    "title": "Dial M for Murder",
+    "year": 1954,
+    "director": [{ "name": "Alfred Hitchcock" }],
+    "production companies": [{ "name": "Warner Bros." }]
+  },
+  "0434409": {
+    "original title": "V jak Vendetta",
+    "cast": [
+      { "name": "Natalie Portman" },
+      { "name": "Hugo Weaving" },
+      { "name": "Stephen Rea" },
+      { "name": "Stephen Fry" },
+      { "name": "John Hurt" }
+    ],
+    "genres": ["Action", "Drama", "Sci-Fi", "Thriller"],
+    "runtimes": 132,
+    "rating": 8.2,
+    "title": "V for Vendetta",
+    "year": 2005,
+    "director": [{ "name": "James McTeigue" }],
+    "production companies": [
+      { "name": "Warner Bros." },
+      { "name": "Virtual Studios" },
+      { "name": "Silver Pictures" },
+      { "name": "Anarchos Productions" },
+      { "name": "Warner Bros." }
+    ]
+  },
+  "2096673": {
+    "original title": "W g\u0142owie si\u0119 nie mie\u015bci",
+    "cast": [
+      { "name": "Amy Poehler" },
+      { "name": "Phyllis Smith" },
+      { "name": "Richard Kind" },
+      { "name": "Bill Hader" },
+      { "name": "Lewis Black" }
+    ],
+    "genres": ["Animation", "Adventure", "Comedy", "Drama", "Family"],
+    "runtimes": 95,
+    "rating": 8.2,
+    "title": "Inside Out",
+    "year": 2015,
+    "director": [{ "name": "Pete Docter" }, { "name": "Ronnie Del Carmen" }],
+    "production companies": [
+      { "name": "Pixar Animation Studios" },
+      { "name": "Walt Disney Pictures" }
+    ]
+  },
+  "0050976": {
+    "original title": "Si\u00f3dma piecz\u0119\u0107",
+    "cast": [
+      { "name": "Gunnar Bj\u00f6rnstrand" },
+      { "name": "Bengt Ekerot" },
+      { "name": "Nils Poppe" },
+      { "name": "Max von Sydow" },
+      { "name": "Bibi Andersson" }
+    ],
+    "genres": ["Drama", "Fantasy"],
+    "runtimes": 96,
+    "rating": 8.2,
+    "title": "The Seventh Seal",
+    "year": 1957,
+    "director": [{ "name": "Ingmar Bergman" }],
+    "production companies": [{ "name": "Svensk Filmindustri" }]
+  },
+  "1291584": {
+    "original title": "Wojownik",
+    "cast": [
+      { "name": "Joel Edgerton" },
+      { "name": "Tom Hardy" },
+      { "name": "Nick Nolte" },
+      { "name": "Jennifer Morrison" },
+      { "name": "Frank Grillo" }
+    ],
+    "genres": ["Drama", "Sport"],
+    "runtimes": 140,
+    "rating": 8.2,
+    "title": "Warrior",
+    "year": 2011,
+    "director": [{ "name": "Gavin O'Connor" }],
+    "production companies": [
+      { "name": "Lionsgate" },
+      { "name": "Mimran Schur Pictures" },
+      { "name": "Solaris" },
+      { "name": "Filmtribe" }
+    ]
+  },
+  "0477348": {
+    "original title": "To nie jest kraj dla starych ludzi",
+    "cast": [
+      { "name": "Tommy Lee Jones" },
+      { "name": "Javier Bardem" },
+      { "name": "Josh Brolin" },
+      { "name": "Woody Harrelson" },
+      { "name": "Kelly Macdonald" }
+    ],
+    "genres": ["Crime", "Drama", "Thriller"],
+    "runtimes": 122,
+    "rating": 8.1,
+    "title": "No Country for Old Men",
+    "year": 2007,
+    "director": [{ "name": "Ethan Coen" }, { "name": "Joel Coen" }],
+    "production companies": [
+      { "name": "Paramount Vantage" },
+      { "name": "Miramax" },
+      { "name": "Scott Rudin Productions" },
+      { "name": "Mike Zoss Productions" }
+    ]
+  },
+  "0117951": {
+    "original title": "Trainspotting",
+    "cast": [
+      { "name": "Ewan McGregor" },
+      { "name": "Ewen Bremner" },
+      { "name": "Jonny Lee Miller" },
+      { "name": "Kevin McKidd" },
+      { "name": "Robert Carlyle" }
+    ],
+    "genres": ["Drama"],
+    "runtimes": 93,
+    "rating": 8.1,
+    "title": "Trainspotting",
+    "year": 1996,
+    "director": [{ "name": "Danny Boyle" }],
+    "production companies": [
+      { "name": "Channel Four Films" },
+      { "name": "Figment Films" },
+      { "name": "The Noel Gay Motion Picture Company" }
+    ]
+  },
+  "0080678": {
+    "original title": "Cz\u0142owiek s\u0142o\u0144",
+    "cast": [
+      { "name": "Anthony Hopkins" },
+      { "name": "John Hurt" },
+      { "name": "Anne Bancroft" },
+      { "name": "John Gielgud" },
+      { "name": "Wendy Hiller" }
+    ],
+    "genres": ["Biography", "Drama"],
+    "runtimes": 124,
+    "rating": 8.1,
+    "title": "The Elephant Man",
+    "year": 1980,
+    "director": [{ "name": "David Lynch" }],
+    "production companies": [{ "name": "Brooksfilms" }]
+  },
+  "3170832": {
+    "original title": "Pok\u00f3j",
+    "cast": [
+      { "name": "Brie Larson" },
+      { "name": "Jacob Tremblay" },
+      { "name": "Sean Bridgers" },
+      { "name": "Wendy Crewson" },
+      { "name": "Sandy McMaster" }
+    ],
+    "genres": ["Drama", "Thriller"],
+    "runtimes": 118,
+    "rating": 8.1,
+    "title": "Room",
+    "year": 2015,
+    "director": [{ "name": "Lenny Abrahamson" }],
+    "production companies": [
+      { "name": "Element Pictures" },
+      { "name": "Film 4" },
+      { "name": "FilmNation Entertainment" },
+      { "name": "No Trace Camping" },
+      { "name": "Ontario Media Development Corporation" }
+    ]
+  },
+  "1130884": {
+    "original title": "Wyspa tajemnic",
+    "cast": [
+      { "name": "Leonardo DiCaprio" },
+      { "name": "Mark Ruffalo" },
+      { "name": "Ben Kingsley" },
+      { "name": "Max von Sydow" },
+      { "name": "Michelle Williams" }
+    ],
+    "genres": ["Mystery", "Thriller"],
+    "runtimes": 138,
+    "rating": 8.1,
+    "title": "Shutter Island",
+    "year": 2010,
+    "director": [{ "name": "Martin Scorsese" }],
+    "production companies": [
+      { "name": "Paramount Pictures" },
+      { "name": "Phoenix Pictures" },
+      { "name": "Sikelia Productions" },
+      { "name": "Appian Way" },
+      { "name": "John Thomas Special FX" }
+    ]
+  },
+  "0167404": {
+    "original title": "Sz\u00f3sty zmys\u0142",
+    "cast": [
+      { "name": "Bruce Willis" },
+      { "name": "Haley Joel Osment" },
+      { "name": "Toni Collette" },
+      { "name": "Olivia Williams" },
+      { "name": "Trevor Morgan" }
+    ],
+    "genres": ["Drama", "Mystery", "Thriller"],
+    "runtimes": 107,
+    "rating": 8.1,
+    "title": "The Sixth Sense",
+    "year": 1999,
+    "director": [{ "name": "M. Night Shyamalan" }],
+    "production companies": [
+      { "name": "Hollywood Pictures" },
+      { "name": "Spyglass Entertainment" },
+      { "name": "The Kennedy/Marshall Company" },
+      { "name": "Barry Mendel Productions" }
+    ]
+  },
+  "0084787": {
+    "original title": "Co\u015b",
+    "cast": [
+      { "name": "Kurt Russell" },
+      { "name": "Wilford Brimley" },
+      { "name": "T.K. Carter" },
+      { "name": "David Clennon" },
+      { "name": "Keith David" }
+    ],
+    "genres": ["Horror", "Mystery", "Sci-Fi"],
+    "runtimes": 109,
+    "rating": 8.1,
+    "title": "The Thing",
+    "year": 1982,
+    "director": [{ "name": "John Carpenter" }],
+    "production companies": [
+      { "name": "Universal Pictures" },
+      { "name": "Turman-Foster Company" }
+    ]
+  },
+  "0031381": {
+    "original title": "Przemin\u0119\u0142o z wiatrem",
+    "cast": [
+      { "name": "Thomas Mitchell" },
+      { "name": "Barbara O'Neil" },
+      { "name": "Vivien Leigh" },
+      { "name": "Evelyn Keyes" },
+      { "name": "Ann Rutherford" }
+    ],
+    "genres": ["Drama", "History", "Romance", "War"],
+    "runtimes": 238,
+    "rating": 8.1,
+    "title": "Gone with the Wind",
+    "year": 1939,
+    "director": [
+      { "name": "Victor Fleming" },
+      { "name": "George Cukor" },
+      { "name": "Sam Wood" }
+    ],
+    "production companies": [
+      { "name": "Selznick International Pictures" },
+      { "name": "Metro-Goldwyn-Mayer (MGM)" }
+    ]
+  },
+  "0050212": {
+    "original title": "Most na rzece Kwai",
+    "cast": [
+      { "name": "William Holden" },
+      { "name": "Alec Guinness" },
+      { "name": "Jack Hawkins" },
+      { "name": "Sessue Hayakawa" },
+      { "name": "James Donald" }
+    ],
+    "genres": ["Adventure", "Drama", "War"],
+    "runtimes": 161,
+    "rating": 8.1,
+    "title": "The Bridge on the River Kwai",
+    "year": 1957,
+    "director": [{ "name": "David Lean" }],
+    "production companies": [{ "name": "Horizon Pictures" }]
+  },
+  "0083658": {
+    "original title": "\u0141owca android\u00f3w",
+    "cast": [
+      { "name": "Harrison Ford" },
+      { "name": "Rutger Hauer" },
+      { "name": "Sean Young" },
+      { "name": "Edward James Olmos" },
+      { "name": "M. Emmet Walsh" }
+    ],
+    "genres": ["Action", "Sci-Fi", "Thriller"],
+    "runtimes": 117,
+    "rating": 8.1,
+    "title": "Blade Runner",
+    "year": 1982,
+    "director": [{ "name": "Ridley Scott" }],
+    "production companies": [
+      { "name": "The Ladd Company" },
+      { "name": "Shaw Brothers" },
+      { "name": "Warner Bros." },
+      { "name": "Blade Runner Partnership" }
+    ]
+  },
+  "0041959": {
+    "original title": "Trzeci cz\u0142owiek",
+    "cast": [
+      { "name": "Joseph Cotten" },
+      { "name": "Alida Valli" },
+      { "name": "Orson Welles" },
+      { "name": "Trevor Howard" },
+      { "name": "Bernard Lee" }
+    ],
+    "genres": ["Film-Noir", "Mystery", "Thriller"],
+    "runtimes": 104,
+    "rating": 8.1,
+    "title": "The Third Man",
+    "year": 1949,
+    "director": [{ "name": "Carol Reed" }],
+    "production companies": [{ "name": "London Film Productions" }]
+  },
+  "7653254": {
+    "original title": "Historia ma\u0142\u017ce\u0144ska",
+    "cast": [
+      { "name": "Adam Driver" },
+      { "name": "Scarlett Johansson" },
+      { "name": "Julia Greer" },
+      { "name": "Azhy Robertson" },
+      { "name": "Wallace Shawn" }
+    ],
+    "genres": ["Comedy", "Drama", "Romance"],
+    "runtimes": 137,
+    "rating": 8.2,
+    "title": "Marriage Story",
+    "year": 2019,
+    "director": [{ "name": "Noah Baumbach" }],
+    "production companies": [{ "name": "Heyday Films" }, { "name": "Netflix" }]
+  },
+  "0107290": {
+    "original title": "Park jurajski",
+    "cast": [
+      { "name": "Sam Neill" },
+      { "name": "Laura Dern" },
+      { "name": "Jeff Goldblum" },
+      { "name": "Richard Attenborough" },
+      { "name": "Bob Peck" }
+    ],
+    "genres": ["Action", "Adventure", "Sci-Fi", "Thriller"],
+    "runtimes": 127,
+    "rating": 8.1,
+    "title": "Jurassic Park",
+    "year": 1993,
+    "director": [{ "name": "Steven Spielberg" }],
+    "production companies": [
+      { "name": "Universal Pictures" },
+      { "name": "Amblin Entertainment" }
+    ]
+  },
+  "0047296": {
+    "original title": "Na nabrze\u017cach",
+    "cast": [
+      { "name": "Marlon Brando" },
+      { "name": "Karl Malden" },
+      { "name": "Lee J. Cobb" },
+      { "name": "Rod Steiger" },
+      { "name": "Pat Henning" }
+    ],
+    "genres": ["Crime", "Drama", "Thriller"],
+    "runtimes": 108,
+    "rating": 8.1,
+    "title": "On the Waterfront",
+    "year": 1954,
+    "director": [{ "name": "Elia Kazan" }],
+    "production companies": [{ "name": "Horizon Pictures" }]
+  },
+  "0266543": {
+    "original title": "Gdzie jest Nemo?",
+    "cast": [
+      { "name": "Albert Brooks" },
+      { "name": "Ellen DeGeneres" },
+      { "name": "Alexander Gould" },
+      { "name": "Willem Dafoe" },
+      { "name": "Brad Garrett" }
+    ],
+    "genres": ["Animation", "Adventure", "Comedy", "Family"],
+    "runtimes": 100,
+    "rating": 8.1,
+    "title": "Finding Nemo",
+    "year": 2003,
+    "director": [{ "name": "Andrew Stanton" }, { "name": "Lee Unkrich" }],
+    "production companies": [
+      { "name": "Pixar Animation Studios" },
+      { "name": "Walt Disney Pictures" }
+    ]
+  },
+  "0050986": {
+    "original title": "Tam, gdzie rosn\u0105 poziomki",
+    "cast": [
+      { "name": "Victor Sj\u00f6str\u00f6m" },
+      { "name": "Bibi Andersson" },
+      { "name": "Ingrid Thulin" },
+      { "name": "Gunnar Bj\u00f6rnstrand" },
+      { "name": "Jullan Kindahl" }
+    ],
+    "genres": ["Drama", "Romance"],
+    "runtimes": 91,
+    "rating": 8.2,
+    "title": "Wild Strawberries",
+    "year": 1957,
+    "director": [{ "name": "Ingmar Bergman" }],
+    "production companies": [{ "name": "Svensk Filmindustri" }]
+  },
+  "8108198": {
+    "original title": "Andhadhun",
+    "cast": [
+      { "name": "Ayushmann Khurrana" },
+      { "name": "Tabu" },
+      { "name": "Radhika Apte" },
+      { "name": "Anil Dhawan" },
+      { "name": "Manav Vij" }
+    ],
+    "genres": ["Crime", "Thriller"],
+    "runtimes": 139,
+    "rating": 8.4,
+    "title": "Andhadhun",
+    "year": 2018,
+    "director": [{ "name": "Sriram Raghavan" }],
+    "production companies": [
+      { "name": "Matchbox Pictures" },
+      { "name": "Viacom18 Motion Pictures" }
+    ]
+  },
+  "0116282": {
+    "original title": "Fargo",
+    "cast": [
+      { "name": "William H. Macy" },
+      { "name": "Steve Buscemi" },
+      { "name": "Peter Stormare" },
+      { "name": "Kristin Rudr\u00fcd" },
+      { "name": "Harve Presnell" }
+    ],
+    "genres": ["Crime", "Drama", "Thriller"],
+    "runtimes": 98,
+    "rating": 8.1,
+    "title": "Fargo",
+    "year": 1996,
+    "director": [{ "name": "Joel Coen" }, { "name": "Ethan Coen" }],
+    "production companies": [
+      { "name": "PolyGram Filmed Entertainment" },
+      { "name": "Working Title Films" }
+    ]
+  },
+  "4729430": {
+    "original title": "Klaus",
+    "cast": [
+      { "name": "Jason Schwartzman" },
+      { "name": "J.K. Simmons" },
+      { "name": "Rashida Jones" },
+      { "name": "Will Sasso" },
+      { "name": "Neda Margrethe Labba" }
+    ],
+    "genres": ["Animation", "Adventure", "Comedy", "Family"],
+    "runtimes": 96,
+    "rating": 8.3,
+    "title": "Klaus",
+    "year": 2019,
+    "director": [
+      { "name": "Sergio Pablos" },
+      { "name": "Carlos Mart\u00ednez L\u00f3pez" }
+    ],
+    "production companies": [
+      { "name": "The SPA Studios" },
+      { "name": "Aniventure" },
+      { "name": "Atresmedia Cine" }
+    ]
+  },
+  "1205489": {
+    "original title": "Gran Torino",
+    "cast": [
+      { "name": "Clint Eastwood" },
+      { "name": "Christopher Carley" },
+      { "name": "Bee Vang" },
+      { "name": "Ahney Her" },
+      { "name": "Brian Haley" }
+    ],
+    "genres": ["Drama"],
+    "runtimes": 116,
+    "rating": 8.1,
+    "title": "Gran Torino",
+    "year": 2008,
+    "director": [{ "name": "Clint Eastwood" }],
+    "production companies": [
+      { "name": "Matten Productions" },
+      { "name": "Double Nickel Entertainment" },
+      { "name": "Gerber Pictures" },
+      { "name": "Malpaso Productions" },
+      { "name": "Village Roadshow Pictures" }
+    ]
+  },
+  "0266697": {
+    "original title": "Kill Bill",
+    "cast": [
+      { "name": "Uma Thurman" },
+      { "name": "Lucy Liu" },
+      { "name": "Vivica A. Fox" },
+      { "name": "Daryl Hannah" },
+      { "name": "David Carradine" }
+    ],
+    "genres": ["Action", "Crime", "Thriller"],
+    "runtimes": 111,
+    "rating": 8.1,
+    "title": "Kill Bill: Vol. 1",
+    "year": 2003,
+    "director": [{ "name": "Quentin Tarantino" }],
+    "production companies": [
+      { "name": "Miramax" },
+      { "name": "A Band Apart" },
+      { "name": "Super Cool ManChu" },
+      { "name": "Shaw Brothers" }
+    ]
+  },
+  "0116231": {
+    "original title": "Ballada o rozb\u00f3jniku",
+    "cast": [
+      { "name": "Sener Sen" },
+      { "name": "Ugur Y\u00fccel" },
+      { "name": "Sermin H\u00fcrmeri\u00e7" },
+      { "name": "Yesim Salkim" },
+      { "name": "Kamran Usluer" }
+    ],
+    "genres": ["Crime", "Drama", "Thriller"],
+    "runtimes": 128,
+    "rating": 8.3,
+    "title": "The Bandit",
+    "year": 1996,
+    "director": [{ "name": "Yavuz Turgul" }],
+    "production companies": [
+      { "name": "Artcam International" },
+      { "name": "Filma-Cass" },
+      { "name": "Geopoly" }
+    ]
+  },
+  "0077416": {
+    "original title": "\u0141owca jeleni",
+    "cast": [
+      { "name": "Robert De Niro" },
+      { "name": "John Cazale" },
+      { "name": "John Savage" },
+      { "name": "Christopher Walken" },
+      { "name": "Meryl Streep" }
+    ],
+    "genres": ["Drama", "War"],
+    "runtimes": 183,
+    "rating": 8.1,
+    "title": "The Deer Hunter",
+    "year": 1978,
+    "director": [{ "name": "Michael Cimino" }],
+    "production companies": [
+      { "name": "EMI Films" },
+      { "name": "Universal Pictures" }
+    ]
+  },
+  "0046438": {
+    "original title": "Tokijska opowie\u015b\u0107",
+    "cast": [
+      { "name": "Chish\u00fb Ry\u00fb" },
+      { "name": "Chieko Higashiyama" },
+      { "name": "Setsuko Hara" },
+      { "name": "Haruko Sugimura" },
+      { "name": "S\u00f4 Yamamura" }
+    ],
+    "genres": ["Drama"],
+    "runtimes": 136,
+    "rating": 8.2,
+    "title": "Tokyo Story",
+    "year": 1953,
+    "director": [{ "name": "Yasujir\u00f4 Ozu" }],
+    "production companies": [{ "name": "Shochiku" }]
+  },
+  "0120382": {
+    "original title": "Truman Show",
+    "cast": [
+      { "name": "Jim Carrey" },
+      { "name": "Laura Linney" },
+      { "name": "Noah Emmerich" },
+      { "name": "Natascha McElhone" },
+      { "name": "Holland Taylor" }
+    ],
+    "genres": ["Comedy", "Drama", "Sci-Fi"],
+    "runtimes": 103,
+    "rating": 8.1,
+    "title": "The Truman Show",
+    "year": 1998,
+    "director": [{ "name": "Peter Weir" }],
+    "production companies": [
+      { "name": "Paramount Pictures" },
+      { "name": "Scott Rudin Productions" }
+    ]
+  },
+  "0079944": {
+    "original title": "Stalker",
+    "cast": [
+      { "name": "Alisa Freyndlikh" },
+      { "name": "Aleksandr Kaydanovskiy" },
+      { "name": "Anatoliy Solonitsyn" },
+      { "name": "Nikolay Grinko" },
+      { "name": "Natalya Abramova" }
+    ],
+    "genres": ["Drama", "Sci-Fi"],
+    "runtimes": 162,
+    "rating": 8.2,
+    "title": "Stalker",
+    "year": 1979,
+    "director": [{ "name": "Andrei Tarkovsky" }],
+    "production companies": [
+      { "name": "Mosfilm" },
+      { "name": "Vtoroe Tvorcheskoe Obedinenie" }
+    ]
+  },
+  "0118715": {
+    "original title": "Big Lebowski",
+    "cast": [
+      { "name": "Jeff Bridges" },
+      { "name": "John Goodman" },
+      { "name": "Julianne Moore" },
+      { "name": "Steve Buscemi" },
+      { "name": "David Huddleston" }
+    ],
+    "genres": ["Comedy", "Crime", "Sport"],
+    "runtimes": 117,
+    "rating": 8.1,
+    "title": "The Big Lebowski",
+    "year": 1998,
+    "director": [{ "name": "Joel Coen" }, { "name": "Ethan Coen" }],
+    "production companies": [
+      { "name": "Polygram Filmed Entertainment" },
+      { "name": "Working Title Films" }
+    ]
+  },
+  "3011894": {
+    "original title": "Dzikie historie",
+    "cast": [
+      { "name": "Dar\u00edo Grandinetti" },
+      { "name": "Mar\u00eda Marull" },
+      { "name": "M\u00f3nica Villa" },
+      { "name": "Diego Starosta" },
+      { "name": "Marcelo Frasca" }
+    ],
+    "genres": ["Comedy", "Drama", "Thriller"],
+    "runtimes": 122,
+    "rating": 8.1,
+    "title": "Wild Tales",
+    "year": 2014,
+    "director": [{ "name": "Dami\u00e1n Szifron" }],
+    "production companies": [
+      { "name": "Corner Producciones" },
+      { "name": "El Deseo" },
+      { "name": "Instituto Nacional de Cine y Artes Audiovisuales (INCAA)" },
+      {
+        "name": "Instituto de la Cinematograf\u00eda y de las Artes Audiovisuales (ICAA)"
+      },
+      { "name": "Kramer & Sigman Films" }
+    ]
+  },
+  "0978762": {
+    "original title": "Mary i Max",
+    "cast": [
+      { "name": "Christopher Massey" },
+      { "name": "Oliver Marks" },
+      { "name": "Daisy Kocher" },
+      { "name": "Daniel Marks" },
+      { "name": "Hamish Hughes" }
+    ],
+    "genres": ["Animation", "Comedy", "Drama"],
+    "runtimes": 92,
+    "rating": 8.1,
+    "title": "Mary and Max",
+    "year": 2009,
+    "director": [{ "name": "Adam Elliot" }],
+    "production companies": [{ "name": "Melodrama Pictures" }]
+  },
+  "0107207": {
+    "original title": "W imi\u0119 ojca",
+    "cast": [
+      { "name": "Alison Crosbie" },
+      { "name": "Daniel Day-Lewis" },
+      { "name": "Philip King" },
+      { "name": "Emma Thompson" },
+      { "name": "Nye Heron" }
+    ],
+    "genres": ["Biography", "Drama"],
+    "runtimes": 133,
+    "rating": 8.1,
+    "title": "In the Name of the Father",
+    "year": 1993,
+    "director": [{ "name": "Jim Sheridan" }],
+    "production companies": [
+      { "name": "Hell's Kitchen Films" },
+      { "name": "Universal Pictures" }
+    ]
+  },
+  "2267998": {
+    "original title": "Zaginiona dziewczyna",
+    "cast": [
+      { "name": "Ben Affleck" },
+      { "name": "Rosamund Pike" },
+      { "name": "Neil Patrick Harris" },
+      { "name": "Tyler Perry" },
+      { "name": "Carrie Coon" }
+    ],
+    "genres": ["Drama", "Mystery", "Thriller"],
+    "runtimes": 149,
+    "rating": 8.1,
+    "title": "Gone Girl",
+    "year": 2014,
+    "director": [{ "name": "David Fincher" }],
+    "production companies": [
+      { "name": "Twentieth Century Fox" },
+      { "name": "Regency Enterprises" },
+      { "name": "TSG Entertainment" },
+      { "name": "New Regency Pictures" },
+      { "name": "Pacific Standard" }
+    ]
+  },
+  "2119532": {
+    "original title": "Prze\u0142\u0119cz ocalonych",
+    "cast": [
+      { "name": "Andrew Garfield" },
+      { "name": "Richard Pyros" },
+      { "name": "Jacob Warner" },
+      { "name": "Milo Gibson" },
+      { "name": "Darcy Bryce" }
+    ],
+    "genres": ["Biography", "Drama", "History", "War"],
+    "runtimes": 139,
+    "rating": 8.1,
+    "title": "Hacksaw Ridge",
+    "year": 2016,
+    "director": [{ "name": "Mel Gibson" }],
+    "production companies": [
+      { "name": "Cross Creek Pictures" },
+      { "name": "Summit Entertainment" },
+      { "name": "Demarest Films" },
+      { "name": "Pandemonium" },
+      { "name": "Permut Presentations" }
+    ]
+  },
+  "0353969": {
+    "original title": "Zagadka zbrodni",
+    "cast": [
+      { "name": "Kang-ho Song" },
+      { "name": "Sang-kyung Kim" },
+      { "name": "Roe-ha Kim" },
+      { "name": "Jae-ho Song" },
+      { "name": "Hee-Bong Byun" }
+    ],
+    "genres": ["Action", "Crime", "Drama", "Mystery", "Thriller"],
+    "runtimes": 131,
+    "rating": 8.1,
+    "title": "Memories of Murder",
+    "year": 2003,
+    "director": [{ "name": "Bong Joon Ho" }],
+    "production companies": [
+      { "name": "CJ Entertainment" },
+      { "name": "Muhan Investment" },
+      { "name": "Sidus" }
+    ]
+  },
+  "0031679": {
+    "original title": "Pan Smith jedzie do Waszyngtonu",
+    "cast": [
+      { "name": "Jean Arthur" },
+      { "name": "James Stewart" },
+      { "name": "Claude Rains" },
+      { "name": "Edward Arnold" },
+      { "name": "Guy Kibbee" }
+    ],
+    "genres": ["Comedy", "Drama"],
+    "runtimes": 129,
+    "rating": 8.1,
+    "title": "Mr. Smith Goes to Washington",
+    "year": 1939,
+    "director": [{ "name": "Frank Capra" }],
+    "production companies": [{ "name": "Columbia Pictures" }]
+  },
+  "0892769": {
+    "original title": "Jak wytresowa\u0107 smoka",
+    "cast": [
+      { "name": "Jay Baruchel" },
+      { "name": "Gerard Butler" },
+      { "name": "Craig Ferguson" },
+      { "name": "America Ferrera" },
+      { "name": "Jonah Hill" }
+    ],
+    "genres": ["Animation", "Action", "Adventure", "Family", "Fantasy"],
+    "runtimes": 98,
+    "rating": 8.1,
+    "title": "How to Train Your Dragon",
+    "year": 2010,
+    "director": [{ "name": "Dean DeBlois" }, { "name": "Chris Sanders" }],
+    "production companies": [
+      { "name": "DreamWorks Animation" },
+      { "name": "Mad Hatter Entertainment" },
+      { "name": "Vertigo Entertainment" }
+    ]
+  },
+  "0017925": {
+    "original title": "Genera\u0142",
+    "cast": [
+      { "name": "Marion Mack" },
+      { "name": "Glen Cavender" },
+      { "name": "Jim Farley" },
+      { "name": "Frederick Vroom" },
+      { "name": "Charles Henry Smith" }
+    ],
+    "genres": ["Action", "Adventure", "Comedy", "Drama", "War"],
+    "runtimes": 67,
+    "rating": 8.1,
+    "title": "The General",
+    "year": 1926,
+    "director": [{ "name": "Clyde Bruckman" }, { "name": "Buster Keaton" }],
+    "production companies": [
+      { "name": "Buster Keaton Productions" },
+      { "name": "Joseph M. Schenck Productions" }
+    ]
+  },
+  "2278388": {
+    "original title": "Grand Budapest Hotel",
+    "cast": [
+      { "name": "Ralph Fiennes" },
+      { "name": "F. Murray Abraham" },
+      { "name": "Mathieu Amalric" },
+      { "name": "Adrien Brody" },
+      { "name": "Willem Dafoe" }
+    ],
+    "genres": ["Adventure", "Comedy", "Crime"],
+    "runtimes": 99,
+    "rating": 8.1,
+    "title": "The Grand Budapest Hotel",
+    "year": 2014,
+    "director": [{ "name": "Wes Anderson" }],
+    "production companies": [
+      { "name": "Fox Searchlight Pictures" },
+      { "name": "Indian Paintbrush" },
+      { "name": "Studio Babelsberg" },
+      { "name": "American Empirical Pictures" },
+      { "name": "TSG Entertainment" }
+    ]
+  },
+  "0015324": {
+    "original title": "M\u0142ody Sherlock Holmes",
+    "cast": [
+      { "name": "Buster Keaton" },
+      { "name": "Kathryn McGuire" },
+      { "name": "Joe Keaton" },
+      { "name": "Erwin Connelly" },
+      { "name": "Ward Crane" }
+    ],
+    "genres": ["Action", "Comedy", "Romance"],
+    "runtimes": 45,
+    "rating": 8.2,
+    "title": "Sherlock Jr.",
+    "year": 1924,
+    "director": [{ "name": "Buster Keaton" }],
+    "production companies": [{ "name": "Buster Keaton Productions" }]
+  },
+  "0060827": {
+    "original title": "Persona",
+    "cast": [
+      { "name": "Bibi Andersson" },
+      { "name": "Liv Ullmann" },
+      { "name": "Margaretha Krook" },
+      { "name": "Gunnar Bj\u00f6rnstrand" },
+      { "name": "J\u00f6rgen Lindstr\u00f6m" }
+    ],
+    "genres": ["Drama", "Thriller"],
+    "runtimes": 85,
+    "rating": 8.1,
+    "title": "Persona",
+    "year": 1966,
+    "director": [{ "name": "Ingmar Bergman" }],
+    "production companies": [
+      { "name": "American International Pictures (AIP)" },
+      { "name": "Aurora" },
+      { "name": "Svensk Filmindustri" }
+    ]
+  },
+  "0112471": {
+    "original title": "Przed wschodem S\u0142o\u0144ca",
+    "cast": [
+      { "name": "Ethan Hawke" },
+      { "name": "Julie Delpy" },
+      { "name": "Andrea Eckert" },
+      { "name": "Hanno P\u00f6schl" },
+      { "name": "Karl Bruckschwaiger" }
+    ],
+    "genres": ["Drama", "Romance"],
+    "runtimes": 101,
+    "rating": 8.1,
+    "title": "Before Sunrise",
+    "year": 1995,
+    "director": [{ "name": "Richard Linklater" }],
+    "production companies": [
+      { "name": "Castle Rock Entertainment" },
+      { "name": "Detour Filmproduction" },
+      { "name": "Filmhaus Wien Universa Filmproduktions" },
+      { "name": "Sunrise Production" },
+      { "name": "Columbia Pictures" }
+    ]
+  },
+  "0264464": {
+    "original title": "Z\u0142ap mnie, je\u015bli potrafisz",
+    "cast": [
+      { "name": "Leonardo DiCaprio" },
+      { "name": "Tom Hanks" },
+      { "name": "Christopher Walken" },
+      { "name": "Martin Sheen" },
+      { "name": "Nathalie Baye" }
+    ],
+    "genres": ["Biography", "Crime", "Drama"],
+    "runtimes": 141,
+    "rating": 8.1,
+    "title": "Catch Me If You Can",
+    "year": 2002,
+    "director": [{ "name": "Steven Spielberg" }],
+    "production companies": [
+      { "name": "DreamWorks" },
+      { "name": "Kemp Company" },
+      { "name": "Splendid Pictures" },
+      { "name": "Parkes/MacDonald Image Nation" },
+      { "name": "Amblin Entertainment" }
+    ]
+  },
+  "1392214": {
+    "original title": "Labirynt",
+    "cast": [
+      { "name": "Hugh Jackman" },
+      { "name": "Jake Gyllenhaal" },
+      { "name": "Viola Davis" },
+      { "name": "Maria Bello" },
+      { "name": "Terrence Howard" }
+    ],
+    "genres": ["Crime", "Drama", "Mystery", "Thriller"],
+    "runtimes": 153,
+    "rating": 8.1,
+    "title": "Prisoners",
+    "year": 2013,
+    "director": [{ "name": "Denis Villeneuve" }],
+    "production companies": [
+      { "name": "Alcon Entertainment" },
+      { "name": "8:38 Productions" },
+      { "name": "Madhouse Entertainment" }
+    ]
+  },
+  "0061512": {
+    "original title": "Nieugi\u0119ty Luke",
+    "cast": [
+      { "name": "Paul Newman" },
+      { "name": "George Kennedy" },
+      { "name": "J.D. Cannon" },
+      { "name": "Lou Antonio" },
+      { "name": "Robert Drivas" }
+    ],
+    "genres": ["Crime", "Drama"],
+    "runtimes": 127,
+    "rating": 8.1,
+    "title": "Cool Hand Luke",
+    "year": 1967,
+    "director": [{ "name": "Stuart Rosenberg" }],
+    "production companies": [{ "name": "Jalem Productions" }]
+  },
+  "2024544": {
+    "original title": "Zniewolony",
+    "cast": [
+      { "name": "Chiwetel Ejiofor" },
+      { "name": "Dwight Henry" },
+      { "name": "Dickie Gravois" },
+      { "name": "Bryan Batt" },
+      { "name": "Ashley Dyke" }
+    ],
+    "genres": ["Biography", "Drama", "History"],
+    "runtimes": 134,
+    "rating": 8.1,
+    "title": "12 Years a Slave",
+    "year": 2013,
+    "director": [{ "name": "Steve McQueen" }],
+    "production companies": [
+      { "name": "Regency Enterprises" },
+      { "name": "River Road Entertainment" },
+      { "name": "Plan B Entertainment" },
+      { "name": "New Regency Pictures" },
+      { "name": "Film4" }
+    ]
+  },
+  "0758758": {
+    "original title": "Wszystko za \u017cycie",
+    "cast": [
+      { "name": "Emile Hirsch" },
+      { "name": "Marcia Gay Harden" },
+      { "name": "William Hurt" },
+      { "name": "Jena Malone" },
+      { "name": "Brian H. Dierker" }
+    ],
+    "genres": ["Adventure", "Biography", "Drama"],
+    "runtimes": 148,
+    "rating": 8.1,
+    "title": "Into the Wild",
+    "year": 2007,
+    "director": [{ "name": "Sean Penn" }],
+    "production companies": [
+      { "name": "Paramount Vantage" },
+      { "name": "Art Linson Productions" },
+      { "name": "Into the Wild" },
+      { "name": "River Road Entertainment" }
+    ]
+  },
+  "0046268": {
+    "original title": "Cena strachu",
+    "cast": [
+      { "name": "Yves Montand" },
+      { "name": "Charles Vanel" },
+      { "name": "Folco Lulli" },
+      { "name": "Peter van Eyck" },
+      { "name": "V\u00e9ra Clouzot" }
+    ],
+    "genres": ["Adventure", "Drama", "Thriller"],
+    "runtimes": 131,
+    "rating": 8.1,
+    "title": "The Wages of Fear",
+    "year": 1953,
+    "director": [{ "name": "Henri-Georges Clouzot" }],
+    "production companies": [
+      {
+        "name": "Compagnie Industrielle et Commerciale Cin\u00e9matographique"
+      },
+      { "name": "Filmsonor" },
+      { "name": "Vera Films" },
+      { "name": "Fono Roma" }
+    ]
+  },
+  "0074958": {
+    "original title": "Sie\u0107",
+    "cast": [
+      { "name": "Faye Dunaway" },
+      { "name": "William Holden" },
+      { "name": "Peter Finch" },
+      { "name": "Robert Duvall" },
+      { "name": "Wesley Addy" }
+    ],
+    "genres": ["Drama"],
+    "runtimes": 121,
+    "rating": 8.1,
+    "title": "Network",
+    "year": 1976,
+    "director": [{ "name": "Sidney Lumet" }],
+    "production companies": [{ "name": "Metro-Goldwyn-Mayer (MGM)" }]
+  },
+  "0092005": {
+    "original title": "Sta\u0144 przy mnie",
+    "cast": [
+      { "name": "Wil Wheaton" },
+      { "name": "River Phoenix" },
+      { "name": "Corey Feldman" },
+      { "name": "Jerry O'Connell" },
+      { "name": "Kiefer Sutherland" }
+    ],
+    "genres": ["Adventure", "Drama"],
+    "runtimes": 89,
+    "rating": 8.1,
+    "title": "Stand by Me",
+    "year": 1986,
+    "director": [{ "name": "Rob Reiner" }],
+    "production companies": [
+      { "name": "Columbia Pictures" },
+      { "name": "Act III" },
+      { "name": "Act III Communications" },
+      { "name": "The Body" }
+    ]
+  },
+  "0079470": {
+    "original title": "\u017bywot Briana",
+    "cast": [
+      { "name": "Graham Chapman" },
+      { "name": "John Cleese" },
+      { "name": "Terry Gilliam" },
+      { "name": "Eric Idle" },
+      { "name": "Terry Jones" }
+    ],
+    "genres": ["Comedy"],
+    "runtimes": 94,
+    "rating": 8.1,
+    "title": "Monty Python's Life of Brian",
+    "year": 1979,
+    "director": [{ "name": "Terry Jones" }],
+    "production companies": [
+      { "name": "HandMade Films" },
+      { "name": "Python (Monty) Pictures" }
+    ]
+  },
+  "1392190": {
+    "original title": "Mad Max: Na drodze gniewu",
+    "cast": [
+      { "name": "Tom Hardy" },
+      { "name": "Charlize Theron" },
+      { "name": "Nicholas Hoult" },
+      { "name": "Hugh Keays-Byrne" },
+      { "name": "Josh Helman" }
+    ],
+    "genres": ["Action", "Adventure", "Sci-Fi", "Thriller"],
+    "runtimes": 120,
+    "rating": 8.1,
+    "title": "Mad Max: Fury Road",
+    "year": 2015,
+    "director": [{ "name": "George Miller" }],
+    "production companies": [
+      { "name": "Warner Bros." },
+      { "name": "Village Roadshow Pictures" },
+      { "name": "Kennedy Miller Productions" },
+      { "name": "RatPac-Dune Entertainment" }
+    ]
+  },
+  "0091763": {
+    "original title": "Pluton",
+    "cast": [
+      { "name": "Keith David" },
+      { "name": "Forest Whitaker" },
+      { "name": "Francesco Quinn" },
+      { "name": "Kevin Dillon" },
+      { "name": "John C. McGinley" }
+    ],
+    "genres": ["Drama", "War"],
+    "runtimes": 120,
+    "rating": 8.1,
+    "title": "Platoon",
+    "year": 1986,
+    "director": [{ "name": "Oliver Stone" }],
+    "production companies": [{ "name": "Hemdale" }, { "name": "Cinema 86" }]
+  },
+  "0072684": {
+    "original title": "Barry Lyndon",
+    "cast": [
+      { "name": "Ryan O'Neal" },
+      { "name": "Marisa Berenson" },
+      { "name": "Patrick Magee" },
+      { "name": "Hardy Kr\u00fcger" },
+      { "name": "Steven Berkoff" }
+    ],
+    "genres": ["Adventure", "Drama", "History", "War"],
+    "runtimes": 185,
+    "rating": 8.1,
+    "title": "Barry Lyndon",
+    "year": 1975,
+    "director": [{ "name": "Stanley Kubrick" }],
+    "production companies": [
+      { "name": "Peregrine" },
+      { "name": "Hawk Films" },
+      { "name": "Warner Bros." }
+    ]
+  },
+  "0019254": {
+    "original title": "M\u0119cze\u0144stwo Joanny d'Arc",
+    "cast": [
+      { "name": "Maria Falconetti" },
+      { "name": "Eugene Silvain" },
+      { "name": "Andr\u00e9 Berley" },
+      { "name": "Maurice Schutz" },
+      { "name": "Antonin Artaud" }
+    ],
+    "genres": ["Biography", "Drama", "History"],
+    "runtimes": 110,
+    "rating": 8.1,
+    "title": "The Passion of Joan of Arc",
+    "year": 1928,
+    "director": [{ "name": "Carl Theodor Dreyer" }],
+    "production companies": [
+      { "name": "Soci\u00e9t\u00e9 g\u00e9n\u00e9rale des films" }
+    ]
+  },
+  "0405159": {
+    "original title": "Za wszelk\u0105 cen\u0119",
+    "cast": [
+      { "name": "Clint Eastwood" },
+      { "name": "Hilary Swank" },
+      { "name": "Morgan Freeman" },
+      { "name": "Jay Baruchel" },
+      { "name": "Mike Colter" }
+    ],
+    "genres": ["Drama", "Sport"],
+    "runtimes": 132,
+    "rating": 8.1,
+    "title": "Million Dollar Baby",
+    "year": 2004,
+    "director": [{ "name": "Clint Eastwood" }],
+    "production companies": [
+      { "name": "Warner Bros." },
+      { "name": "Lakeshore Entertainment" },
+      { "name": "Malpaso Productions" },
+      { "name": "Albert S. Ruddy Productions" },
+      { "name": "Epsilon Motion Pictures" }
+    ]
+  },
+  "1028532": {
+    "original title": "M\u00f3j przyjaciel Hachiko",
+    "cast": [
+      { "name": "Richard Gere" },
+      { "name": "Joan Allen" },
+      { "name": "Cary-Hiroyuki Tagawa" },
+      { "name": "Sarah Roemer" },
+      { "name": "Jason Alexander" }
+    ],
+    "genres": ["Drama", "Family"],
+    "runtimes": 93,
+    "rating": 8.1,
+    "title": "Hachi: A Dog's Tale",
+    "year": 2009,
+    "director": [{ "name": "Lasse Hallstr\u00f6m" }],
+    "production companies": [
+      { "name": "Stage 6 Films" },
+      { "name": "Inferno Distribution" },
+      { "name": "Hachiko" },
+      { "name": "Grand Army Entertainment" },
+      { "name": "Opperman Viner Chrystyn Entertainment" }
+    ]
+  },
+  "1979320": {
+    "original title": "Wy\u015bcig",
+    "cast": [
+      { "name": "Chris Hemsworth" },
+      { "name": "Daniel Br\u00fchl" },
+      { "name": "Olivia Wilde" },
+      { "name": "Alexandra Maria Lara" },
+      { "name": "Pierfrancesco Favino" }
+    ],
+    "genres": ["Biography", "Drama", "Sport"],
+    "runtimes": 123,
+    "rating": 8.1,
+    "title": "Rush",
+    "year": 2013,
+    "director": [{ "name": "Ron Howard" }],
+    "production companies": [
+      { "name": "Exclusive Media Group" },
+      { "name": "Cross Creek Pictures" },
+      { "name": "Imagine Entertainment" },
+      { "name": "Revolution Films" },
+      { "name": "Working Title Films" }
+    ]
+  },
+  "3315342": {
+    "original title": "Logan: Wolverine",
+    "cast": [
+      { "name": "Hugh Jackman" },
+      { "name": "Patrick Stewart" },
+      { "name": "Dafne Keen" },
+      { "name": "Boyd Holbrook" },
+      { "name": "Stephen Merchant" }
+    ],
+    "genres": ["Action", "Drama", "Sci-Fi", "Thriller"],
+    "runtimes": 137,
+    "rating": 8.1,
+    "title": "Logan",
+    "year": 2017,
+    "director": [{ "name": "James Mangold" }],
+    "production companies": [
+      { "name": "Twentieth Century Fox" },
+      { "name": "Marvel Entertainment" },
+      { "name": "TSG Entertainment" },
+      { "name": "Kinberg Genre" },
+      { "name": "Hutch Parker Entertainment" }
+    ]
+  },
+  "0405508": {
+    "original title": "Kolor szafranu",
+    "cast": [
+      { "name": "Aamir Khan" },
+      { "name": "Siddharth" },
+      { "name": "Sharman Joshi" },
+      { "name": "Kunal Kapoor" },
+      { "name": "Atul Kulkarni" }
+    ],
+    "genres": ["Comedy", "Drama"],
+    "runtimes": 167,
+    "rating": 8.2,
+    "title": "Rang De Basanti",
+    "year": 2006,
+    "director": [{ "name": "Rakeysh Omprakash Mehra" }],
+    "production companies": [
+      { "name": "ROMP" },
+      { "name": "UTV Motion Pictures" }
+    ]
+  },
+  "0060107": {
+    "original title": "Andriej Rublow",
+    "cast": [
+      { "name": "Anatoliy Solonitsyn" },
+      { "name": "Ivan Lapikov" },
+      { "name": "Nikolay Grinko" },
+      { "name": "Nikolay Sergeev" },
+      { "name": "Irina Tarkovskaya" }
+    ],
+    "genres": ["Biography", "Drama", "History"],
+    "runtimes": 205,
+    "rating": 8.2,
+    "title": "Andrei Rublev",
+    "year": 1966,
+    "director": [{ "name": "Andrei Tarkovsky" }],
+    "production companies": [
+      { "name": "Mosfilm" },
+      { "name": "Tvorcheskoe Obedinienie Pisateley i Kinorabotnikov" }
+    ]
+  },
+  "0052618": {
+    "original title": "Ben Hur",
+    "cast": [
+      { "name": "Charlton Heston" },
+      { "name": "Jack Hawkins" },
+      { "name": "Haya Harareet" },
+      { "name": "Stephen Boyd" },
+      { "name": "Hugh Griffith" }
+    ],
+    "genres": ["Adventure", "Drama", "History"],
+    "runtimes": 212,
+    "rating": 8.1,
+    "title": "Ben-Hur",
+    "year": 1959,
+    "director": [{ "name": "William Wyler" }],
+    "production companies": [{ "name": "Metro-Goldwyn-Mayer (MGM)" }]
+  },
+  "0087544": {
+    "original title": "Nausica\u00e4 z Doliny Wiatru",
+    "cast": [
+      { "name": "Sumi Shimamoto" },
+      { "name": "Mahito Tsujimura" },
+      { "name": "Hisako Ky\u00f4da" },
+      { "name": "Gor\u00f4 Naya" },
+      { "name": "Ichir\u00f4 Nagai" }
+    ],
+    "genres": ["Animation", "Adventure", "Fantasy", "Sci-Fi"],
+    "runtimes": 117,
+    "rating": 8.1,
+    "title": "Nausica\u00e4 of the Valley of the Wind",
+    "year": 1984,
+    "director": [{ "name": "Hayao Miyazaki" }],
+    "production companies": [
+      { "name": "Nibariki" },
+      { "name": "Tokuma Shoten" },
+      { "name": "Hakuhodo" },
+      { "name": "Topcraft" }
+    ]
+  },
+  "0053198": {
+    "original title": "Czterysta bat\u00f3w",
+    "cast": [
+      { "name": "Jean-Pierre L\u00e9aud" },
+      { "name": "Claire Maurier" },
+      { "name": "Albert R\u00e9my" },
+      { "name": "Guy Decomble" },
+      { "name": "Georges Flamant" }
+    ],
+    "genres": ["Crime", "Drama"],
+    "runtimes": 99,
+    "rating": 8.1,
+    "title": "The 400 Blows",
+    "year": 1959,
+    "director": [{ "name": "Fran\u00e7ois Truffaut" }],
+    "production companies": [
+      { "name": "Les Films du Carrosse" },
+      { "name": "S\u00e9dif Productions" }
+    ]
+  },
+  "1201607": {
+    "original title": "Harry Potter i Insygnia \u015amierci: Cz\u0119\u015b\u0107 II",
+    "cast": [
+      { "name": "Ralph Fiennes" },
+      { "name": "Michael Gambon" },
+      { "name": "Alan Rickman" },
+      { "name": "Daniel Radcliffe" },
+      { "name": "Rupert Grint" }
+    ],
+    "genres": ["Adventure", "Drama", "Fantasy", "Mystery"],
+    "runtimes": 130,
+    "rating": 8.1,
+    "title": "Harry Potter and the Deathly Hallows: Part 2",
+    "year": 2011,
+    "director": [{ "name": "David Yates" }],
+    "production companies": [
+      { "name": "Warner Bros." },
+      { "name": "Heyday Films" },
+      { "name": "Moving Picture Company" }
+    ]
+  },
+  "0395169": {
+    "original title": "Hotel Ruanda",
+    "cast": [
+      { "name": "Xolani Mali" },
+      { "name": "Don Cheadle" },
+      { "name": "Desmond Dube" },
+      { "name": "Hakeem Kae-Kazim" },
+      { "name": "Tony Kgoroge" }
+    ],
+    "genres": ["Biography", "Drama", "History", "War"],
+    "runtimes": 121,
+    "rating": 8.1,
+    "title": "Hotel Rwanda",
+    "year": 2004,
+    "director": [{ "name": "Terry George" }],
+    "production companies": [
+      { "name": "United Artists" },
+      { "name": "Lions Gate Films" },
+      { "name": "Industrial Development Corporation of South Africa" },
+      { "name": "Miracle Pictures" },
+      { "name": "Inside Track Films" }
+    ]
+  },
+  "0245712": {
+    "original title": "Amores perros",
+    "cast": [
+      { "name": "Emilio Echevarr\u00eda" },
+      { "name": "Gael Garc\u00eda Bernal" },
+      { "name": "Goya Toledo" },
+      { "name": "\u00c1lvaro Guerrero" },
+      { "name": "Vanessa Bauche" }
+    ],
+    "genres": ["Drama", "Thriller"],
+    "runtimes": 154,
+    "rating": 8.1,
+    "title": "Amores Perros",
+    "year": 2000,
+    "director": [{ "name": "Alejandro G. I\u00f1\u00e1rritu" }],
+    "production companies": [
+      { "name": "Altavista Films" },
+      { "name": "Zeta Film" }
+    ]
+  },
+  "0097165": {
+    "original title": "Stowarzyszenie Umar\u0142ych Poet\u00f3w",
+    "cast": [
+      { "name": "Robin Williams" },
+      { "name": "Robert Sean Leonard" },
+      { "name": "Ethan Hawke" },
+      { "name": "Josh Charles" },
+      { "name": "Gale Hansen" }
+    ],
+    "genres": ["Comedy", "Drama"],
+    "runtimes": 128,
+    "rating": 8.1,
+    "title": "Dead Poets Society",
+    "year": 1989,
+    "director": [{ "name": "Peter Weir" }],
+    "production companies": [
+      { "name": "Touchstone Pictures" },
+      { "name": "Silver Screen Partners IV" },
+      { "name": "A Steven Haft Production" },
+      { "name": "Witt/Thomas Productions" }
+    ]
+  },
+  "1302006": {
+    "original title": "Irlandczyk",
+    "cast": [
+      { "name": "Robert De Niro" },
+      { "name": "Al Pacino" },
+      { "name": "Joe Pesci" },
+      { "name": "Harvey Keitel" },
+      { "name": "Ray Romano" }
+    ],
+    "genres": ["Biography", "Crime", "Drama"],
+    "runtimes": 209,
+    "rating": 8.1,
+    "title": "The Irishman",
+    "year": 2019,
+    "director": [{ "name": "Martin Scorsese" }],
+    "production companies": [
+      { "name": "Tribeca Productions" },
+      { "name": "Sikelia Productions" },
+      { "name": "Winkler Films" }
+    ]
+  },
+  "1895587": {
+    "original title": "Spotlight",
+    "cast": [
+      { "name": "Mark Ruffalo" },
+      { "name": "Michael Keaton" },
+      { "name": "Rachel McAdams" },
+      { "name": "Liev Schreiber" },
+      { "name": "John Slattery" }
+    ],
+    "genres": ["Biography", "Crime", "Drama"],
+    "runtimes": 129,
+    "rating": 8.1,
+    "title": "Spotlight",
+    "year": 2015,
+    "director": [{ "name": "Tom McCarthy" }],
+    "production companies": [
+      { "name": "Participant" },
+      { "name": "First Look Media" },
+      { "name": "Anonymous Content" },
+      { "name": "Rocklin/Faust" },
+      { "name": "Topic Studios" }
+    ]
+  },
+  "0040725": {
+    "original title": "Czerwone trzewiki",
+    "cast": [
+      { "name": "Marius Goring" },
+      { "name": "Jean Short" },
+      { "name": "Gordon Littmann" },
+      { "name": "Julia Lang" },
+      { "name": "Bill Shine" }
+    ],
+    "genres": ["Drama", "Music", "Romance"],
+    "runtimes": 135,
+    "rating": 8.2,
+    "title": "The Red Shoes",
+    "year": 1948,
+    "director": [
+      { "name": "Michael Powell" },
+      { "name": "Emeric Pressburger" }
+    ],
+    "production companies": [
+      { "name": "The Archers" },
+      { "name": "Independent Producers" }
+    ]
+  },
+  "0032976": {
+    "original title": "Rebeka",
+    "cast": [
+      { "name": "Laurence Olivier" },
+      { "name": "Joan Fontaine" },
+      { "name": "George Sanders" },
+      { "name": "Judith Anderson" },
+      { "name": "Nigel Bruce" }
+    ],
+    "genres": ["Drama", "Mystery", "Romance", "Thriller"],
+    "runtimes": 130,
+    "rating": 8.1,
+    "title": "Rebecca",
+    "year": 1940,
+    "director": [{ "name": "Alfred Hitchcock" }],
+    "production companies": [{ "name": "Selznick International Pictures" }]
+  },
+  "0075148": {
+    "original title": "Rocky",
+    "cast": [
+      { "name": "Sylvester Stallone" },
+      { "name": "Talia Shire" },
+      { "name": "Burt Young" },
+      { "name": "Carl Weathers" },
+      { "name": "Burgess Meredith" }
+    ],
+    "genres": ["Drama", "Sport"],
+    "runtimes": 120,
+    "rating": 8.1,
+    "title": "Rocky",
+    "year": 1976,
+    "director": [{ "name": "John G. Avildsen" }],
+    "production companies": [{ "name": "Chartoff-Winkler Productions" }]
+  },
+  "0043338": {
+    "original title": "As w potrzasku",
+    "cast": [
+      { "name": "Kirk Douglas" },
+      { "name": "Jan Sterling" },
+      { "name": "Robert Arthur" },
+      { "name": "Porter Hall" },
+      { "name": "Frank Cady" }
+    ],
+    "genres": ["Drama", "Film-Noir"],
+    "runtimes": 111,
+    "rating": 8.2,
+    "title": "Ace in the Hole",
+    "year": 1951,
+    "director": [{ "name": "Billy Wilder" }],
+    "production companies": [{ "name": "Paramount Pictures" }]
+  },
+  "4016934": {
+    "original title": "S\u0142u\u017c\u0105ca",
+    "cast": [
+      { "name": "Min-hee Kim" },
+      { "name": "Tae-ri Kim" },
+      { "name": "Jung-woo Ha" },
+      { "name": "Jin-woong Cho" },
+      { "name": "Hae-sook Kim" }
+    ],
+    "genres": ["Drama", "Romance", "Thriller"],
+    "runtimes": 145,
+    "rating": 8.1,
+    "title": "The Handmaiden",
+    "year": 2016,
+    "director": [{ "name": "Chan-wook Park" }],
+    "production companies": [{ "name": "Moho Film" }, { "name": "Yong Film" }]
+  },
+  "0042041": {
+    "original title": "Bia\u0142y \u017car",
+    "cast": [
+      { "name": "James Cagney" },
+      { "name": "Virginia Mayo" },
+      { "name": "Edmond O'Brien" },
+      { "name": "Margaret Wycherly" },
+      { "name": "Steve Cochran" }
+    ],
+    "genres": ["Action", "Crime", "Drama", "Film-Noir"],
+    "runtimes": 114,
+    "rating": 8.2,
+    "title": "White Heat",
+    "year": 1949,
+    "director": [{ "name": "Raoul Walsh" }],
+    "production companies": [{ "name": "Warner Bros." }]
+  },
+  "0198781": {
+    "original title": "Potwory i sp\u00f3\u0142ka",
+    "cast": [
+      { "name": "John Goodman" },
+      { "name": "Billy Crystal" },
+      { "name": "Mary Gibbs" },
+      { "name": "Steve Buscemi" },
+      { "name": "James Coburn" }
+    ],
+    "genres": ["Animation", "Adventure", "Comedy", "Family", "Fantasy"],
+    "runtimes": 92,
+    "rating": 8.0,
+    "title": "Monsters, Inc.",
+    "year": 2001,
+    "director": [
+      { "name": "Pete Docter" },
+      { "name": "David Silverman" },
+      { "name": "Lee Unkrich" }
+    ],
+    "production companies": [
+      { "name": "Pixar Animation Studios" },
+      { "name": "Walt Disney Pictures" }
+    ]
+  },
+  "0025316": {
+    "original title": "Ich noce",
+    "cast": [
+      { "name": "Clark Gable" },
+      { "name": "Claudette Colbert" },
+      { "name": "Walter Connolly" },
+      { "name": "Roscoe Karns" },
+      { "name": "Jameson Thomas" }
+    ],
+    "genres": ["Comedy", "Romance"],
+    "runtimes": 105,
+    "rating": 8.1,
+    "title": "It Happened One Night",
+    "year": 1934,
+    "director": [{ "name": "Frank Capra" }],
+    "production companies": [{ "name": "Columbia Pictures" }]
+  },
+  "0113247": {
+    "original title": "Nienawi\u015b\u0107",
+    "cast": [
+      { "name": "Vincent Cassel" },
+      { "name": "Hubert Kound\u00e9" },
+      { "name": "Sa\u00efd Taghmaoui" },
+      { "name": "Abdel Ahmed Ghili" },
+      { "name": "Solo" }
+    ],
+    "genres": ["Crime", "Drama"],
+    "runtimes": 98,
+    "rating": 8.1,
+    "title": "La Haine",
+    "year": 1995,
+    "director": [{ "name": "Mathieu Kassovitz" }],
+    "production companies": [
+      { "name": "Canal+" },
+      { "name": "Cofinergie 6" },
+      { "name": "Egg Pictures" },
+      { "name": "Kasso Inc. Productions" },
+      { "name": "La Sept Cin\u00e9ma" }
+    ]
+  },
+  "3417422": {
+    "original title": "Drishyam",
+    "cast": [
+      { "name": "Mohanlal" },
+      { "name": "Meena" },
+      { "name": "Asha Sharath" },
+      { "name": "Ansiba" },
+      { "name": "Esther Anil" }
+    ],
+    "genres": ["Crime", "Drama", "Thriller"],
+    "runtimes": 160,
+    "rating": 8.4,
+    "title": "Drishyam",
+    "year": 2013,
+    "director": [{ "name": "Jeethu Joseph" }],
+    "production companies": [{ "name": "Aashirvad Cinemas" }]
+  },
+  "0169102": {
+    "original title": "Lagaan: Dawno temu w Indiach",
+    "cast": [
+      { "name": "Aamir Khan" },
+      { "name": "Gracy Singh" },
+      { "name": "Rachel Shelley" },
+      { "name": "Paul Blackthorne" },
+      { "name": "Suhasini Mulay" }
+    ],
+    "genres": ["Adventure", "Drama", "Musical", "Sport"],
+    "runtimes": 224,
+    "rating": 8.1,
+    "title": "Lagaan: Once Upon a Time in India",
+    "year": 2001,
+    "director": [{ "name": "Ashutosh Gowariker" }],
+    "production companies": [
+      { "name": "Aamir Khan Productions" },
+      { "name": "Jhamu Sughand Productions" }
+    ]
+  },
+  "1954470": {
+    "original title": "Gangs of Wasseypur",
+    "cast": [
+      { "name": "Manoj Bajpayee" },
+      { "name": "Richa Chadha" },
+      { "name": "Nawazuddin Siddiqui" },
+      { "name": "Tigmanshu Dhulia" },
+      { "name": "Jameel Khan" }
+    ],
+    "genres": ["Action", "Comedy", "Crime", "Drama", "Thriller"],
+    "runtimes": 321,
+    "rating": 8.2,
+    "title": "Gangs of Wasseypur",
+    "year": 2012,
+    "director": [{ "name": "Anurag Kashyap" }],
+    "production companies": [
+      { "name": "Jar Pictures" },
+      { "name": "AKFPL" },
+      { "name": "Bohra Bros Productions" },
+      { "name": "Tipping Point Films" },
+      { "name": "Viacom18 Motion Pictures" }
+    ]
+  },
+  "0093779": {
+    "original title": "Narzeczona dla ksi\u0119cia",
+    "cast": [
+      { "name": "Cary Elwes" },
+      { "name": "Mandy Patinkin" },
+      { "name": "Chris Sarandon" },
+      { "name": "Christopher Guest" },
+      { "name": "Wallace Shawn" }
+    ],
+    "genres": ["Adventure", "Family", "Fantasy", "Romance"],
+    "runtimes": 98,
+    "rating": 8.1,
+    "title": "The Princess Bride",
+    "year": 1987,
+    "director": [{ "name": "Rob Reiner" }],
+    "production companies": [
+      { "name": "Act III Communications" },
+      { "name": "Buttercup Films Ltd." },
+      { "name": "The Princess Bride Ltd." }
+    ]
+  },
+  "0381681": {
+    "original title": "Przed zachodem S\u0142o\u0144ca",
+    "cast": [
+      { "name": "Ethan Hawke" },
+      { "name": "Julie Delpy" },
+      { "name": "Vernon Dobtcheff" },
+      { "name": "Louise Lemoine Torr\u00e8s" },
+      { "name": "Rodolphe Pauly" }
+    ],
+    "genres": ["Drama", "Romance"],
+    "runtimes": 80,
+    "rating": 8.0,
+    "title": "Before Sunset",
+    "year": 2004,
+    "director": [{ "name": "Richard Linklater" }],
+    "production companies": [
+      { "name": "Warner Independent Pictures (WIP)" },
+      { "name": "Castle Rock Entertainment" },
+      { "name": "Detour Filmproduction" }
+    ]
+  },
+  "0118694": {
+    "original title": "Spragnieni mi\u0142o\u015bci",
+    "cast": [
+      { "name": "Maggie Cheung" },
+      { "name": "Tony Chiu-Wai Leung" },
+      { "name": "Ping Lam Siu" },
+      { "name": "Tung Cho 'Joe' Cheung" },
+      { "name": "Rebecca Pan" }
+    ],
+    "genres": ["Drama", "Romance"],
+    "runtimes": 98,
+    "rating": 8.1,
+    "title": "In the Mood for Love",
+    "year": 2000,
+    "director": [{ "name": "Kar-Wai Wong" }],
+    "production companies": [
+      { "name": "Block 2 Pictures" },
+      { "name": "Jet Tone Production" },
+      { "name": "Paradis Films" }
+    ]
+  },
+  "1454029": {
+    "original title": "S\u0142u\u017c\u0105ce",
+    "cast": [
+      { "name": "Emma Stone" },
+      { "name": "Viola Davis" },
+      { "name": "Bryce Dallas Howard" },
+      { "name": "Octavia Spencer" },
+      { "name": "Jessica Chastain" }
+    ],
+    "genres": ["Drama"],
+    "runtimes": 146,
+    "rating": 8.1,
+    "title": "The Help",
+    "year": 2011,
+    "director": [{ "name": "Tate Taylor" }],
+    "production companies": [
+      { "name": "DreamWorks" },
+      { "name": "Reliance Entertainment" },
+      { "name": "Participant" },
+      { "name": "Imagenation Abu Dhabi FZ" },
+      { "name": "1492 Pictures" }
+    ]
+  },
+  "2338151": {
+    "original title": "PK",
+    "cast": [
+      { "name": "Aamir Khan" },
+      { "name": "Anushka Sharma" },
+      { "name": "Saurabh Shukla" },
+      { "name": "Sanjay Dutt" },
+      { "name": "Boman Irani" }
+    ],
+    "genres": ["Comedy", "Drama", "Fantasy"],
+    "runtimes": 153,
+    "rating": 8.1,
+    "title": "PK",
+    "year": 2014,
+    "director": [{ "name": "Rajkumar Hirani" }],
+    "production companies": [
+      { "name": "Rajkumar Hirani Films" },
+      { "name": "Vinod Chopra Productions" }
+    ]
+  },
+  "0064115": {
+    "original title": "Butch Cassidy i Sundance Kid",
+    "cast": [
+      { "name": "Paul Newman" },
+      { "name": "Robert Redford" },
+      { "name": "Katharine Ross" },
+      { "name": "Strother Martin" },
+      { "name": "Henry Jones" }
+    ],
+    "genres": ["Biography", "Crime", "Drama", "Western"],
+    "runtimes": 110,
+    "rating": 8.0,
+    "title": "Butch Cassidy and the Sundance Kid",
+    "year": 1969,
+    "director": [{ "name": "George Roy Hill" }],
+    "production companies": [
+      { "name": "Campanile Productions" },
+      { "name": "George Roy Hill-Paul Monash Production" },
+      { "name": "Newman-Foreman Company" }
+    ]
+  },
+  "0088247": {
+    "original title": "Terminator",
+    "cast": [
+      { "name": "Arnold Schwarzenegger" },
+      { "name": "Michael Biehn" },
+      { "name": "Linda Hamilton" },
+      { "name": "Paul Winfield" },
+      { "name": "Lance Henriksen" }
+    ],
+    "genres": ["Action", "Sci-Fi"],
+    "runtimes": 107,
+    "rating": 8.0,
+    "title": "The Terminator",
+    "year": 1984,
+    "director": [{ "name": "James Cameron" }],
+    "production companies": [
+      { "name": "Cinema '84" },
+      { "name": "Euro Film Funding" },
+      { "name": "Hemdale" },
+      { "name": "Pacific Western Productions" }
+    ]
+  },
+  "0094625": {
+    "original title": "Akira",
+    "cast": [
+      { "name": "Mitsuo Iwata" },
+      { "name": "Nozomu Sasaki" },
+      { "name": "Mami Koyama" },
+      { "name": "Tessh\u00f4 Genda" },
+      { "name": "Hiroshi \u00d4take" }
+    ],
+    "genres": ["Animation", "Action", "Drama", "Sci-Fi", "Thriller"],
+    "runtimes": 124,
+    "rating": 8.1,
+    "title": "Akira",
+    "year": 1988,
+    "director": [{ "name": "Katsuhiro \u00d4tomo" }],
+    "production companies": [
+      { "name": "Akira Committee Company Ltd." },
+      { "name": "Akira Studio" },
+      { "name": "TMS Entertainment" },
+      { "name": "K\u00f4dansha" },
+      { "name": "Mainichi Broadcasting System (MBS)" }
+    ]
+  },
+  "0087884": {
+    "original title": "Pary\u017c, Teksas",
+    "cast": [
+      { "name": "Harry Dean Stanton" },
+      { "name": "Nastassja Kinski" },
+      { "name": "Dean Stockwell" },
+      { "name": "Aurore Cl\u00e9ment" },
+      { "name": "Hunter Carson" }
+    ],
+    "genres": ["Drama"],
+    "runtimes": 145,
+    "rating": 8.1,
+    "title": "Paris, Texas",
+    "year": 1984,
+    "director": [{ "name": "Wim Wenders" }],
+    "production companies": [
+      { "name": "Road Movies Filmproduktion" },
+      { "name": "Argos Films" },
+      { "name": "Westdeutscher Rundfunk (WDR)" },
+      { "name": "Channel Four Films" },
+      { "name": "Pro-ject Filmproduktion" }
+    ]
+  },
+  "0103639": {
+    "original title": "Aladyn",
+    "cast": [
+      { "name": "Scott Weinger" },
+      { "name": "Robin Williams" },
+      { "name": "Linda Larkin" },
+      { "name": "Jonathan Freeman" },
+      { "name": "Frank Welker" }
+    ],
+    "genres": ["Animation", "Adventure", "Comedy", "Family", "Fantasy"],
+    "runtimes": 90,
+    "rating": 8.0,
+    "title": "Aladdin",
+    "year": 1992,
+    "director": [{ "name": "Ron Clements" }, { "name": "John Musker" }],
+    "production companies": [
+      { "name": "Walt Disney Pictures" },
+      { "name": "Silver Screen Partners IV" },
+      { "name": "Walt Disney Animation Studios" }
+    ]
+  },
+  "0058946": {
+    "original title": "Bitwa o Algier",
+    "cast": [
+      { "name": "Brahim Hadjadj" },
+      { "name": "Jean Martin" },
+      { "name": "Yacef Saadi" },
+      { "name": "Samia Kerbash" },
+      { "name": "Ugo Paletti" }
+    ],
+    "genres": ["Drama", "War"],
+    "runtimes": 121,
+    "rating": 8.1,
+    "title": "The Battle of Algiers",
+    "year": 1966,
+    "director": [{ "name": "Gillo Pontecorvo" }],
+    "production companies": [
+      { "name": "Casbah Film" },
+      { "name": "Casbah Film" },
+      { "name": "Igor Film" }
+    ]
+  },
+  "2015381": {
+    "original title": "Stra\u017cnicy Galaktyki",
+    "cast": [
+      { "name": "Chris Pratt" },
+      { "name": "Zoe Saldana" },
+      { "name": "Dave Bautista" },
+      { "name": "Vin Diesel" },
+      { "name": "Bradley Cooper" }
+    ],
+    "genres": ["Action", "Adventure", "Comedy", "Sci-Fi"],
+    "runtimes": 121,
+    "rating": 8.0,
+    "title": "Guardians of the Galaxy",
+    "year": 2014,
+    "director": [{ "name": "James Gunn" }],
+    "production companies": [
+      { "name": "Marvel Studios" },
+      { "name": "Moving Pictures Company" },
+      { "name": "Marvel Enterprises" }
+    ]
+  },
+  "0092067": {
+    "original title": "Laputa - podniebny zamek",
+    "cast": [
+      { "name": "Anna Paquin" },
+      { "name": "James Van Der Beek" },
+      { "name": "Cloris Leachman" },
+      { "name": "Mark Hamill" },
+      { "name": "Richard Dysart" }
+    ],
+    "genres": ["Animation", "Adventure", "Drama", "Family", "Fantasy"],
+    "runtimes": 125,
+    "rating": 8.0,
+    "title": "Castle in the Sky",
+    "year": 1986,
+    "director": [{ "name": "Hayao Miyazaki" }],
+    "production companies": [
+      { "name": "Nibariki" },
+      { "name": "Studio Ghibli" },
+      { "name": "Tokuma Shoten" }
+    ]
+  },
+  "4857264": {
+    "original title": "Contratiempo",
+    "cast": [
+      { "name": "Mario Casas" },
+      { "name": "Ana Wagener" },
+      { "name": "Jose Coronado" },
+      { "name": "B\u00e1rbara Lennie" },
+      { "name": "Francesc Orella" }
+    ],
+    "genres": ["Crime", "Mystery", "Thriller"],
+    "runtimes": 106,
+    "rating": 8.1,
+    "title": "The Invisible Guest",
+    "year": 2016,
+    "director": [{ "name": "Oriol Paulo" }],
+    "production companies": [
+      { "name": "Atresmedia Cine" },
+      { "name": "Think Studio" },
+      { "name": "Nostromo Pictures" },
+      { "name": "Colos\u00e9 Producciones" },
+      { "name": "Atresmedia" }
+    ]
+  }
+}

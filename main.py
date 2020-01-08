@@ -46,6 +46,7 @@ def empty_and_fill_database():
 
         return attr_string, attributes
 
+
     uri, user, password = load_connection_data()
     driver = GraphDatabase.driver(uri, auth=(user, password))
     gm = build_graph_manager()
